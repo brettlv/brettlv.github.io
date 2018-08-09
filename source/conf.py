@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# quick documentation build configuration file, created by
-# sphinx-quickstart on Thu Aug  9 16:08:42 2018.
+# Myblog documentation build configuration file, created by
+# sphinx-quickstart on Thu Aug  9 16:49:16 2018.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -30,7 +30,15 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['sphinx.ext.autodoc',
+    'sphinx.ext.doctest',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.coverage',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.viewcode',
+    'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -39,15 +47,15 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.txt'
+source_suffix = '.rst'
 
 # The master toctree document.
 master_doc = 'index'
 
 # General information about the project.
-project = u'quick'
-copyright = u'2018, brett'
-author = u'brett'
+project = u'Myblog'
+copyright = u'2018, Brett'
+author = u'Brett'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -74,7 +82,7 @@ exclude_patterns = []
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = False
+todo_include_todos = True
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -99,7 +107,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'quickdoc'
+htmlhelp_basename = 'Myblogdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -126,8 +134,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'quick.tex', u'quick Documentation',
-     u'brett', 'manual'),
+    (master_doc, 'Myblog.tex', u'Myblog Documentation',
+     u'Brett', 'manual'),
 ]
 
 
@@ -136,7 +144,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'quick', u'quick Documentation',
+    (master_doc, 'myblog', u'Myblog Documentation',
      [author], 1)
 ]
 
@@ -147,10 +155,13 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'quick', u'quick Documentation',
-     author, 'quick', 'One line description of project.',
+    (master_doc, 'Myblog', u'Myblog Documentation',
+     author, 'Myblog', 'One line description of project.',
      'Miscellaneous'),
 ]
 
 
 
+
+# Example configuration for intersphinx: refer to the Python standard library.
+intersphinx_mapping = {'https://docs.python.org/': None}
