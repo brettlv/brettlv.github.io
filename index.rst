@@ -10,12 +10,16 @@ Welcome to Brett's Blog!
 =================================
  
 
-.. index::pair: table of; contens
+.. index::pair: table of; 
 
 
     :maxdepth: 2
     :numbered: 2
     :includehidden:
+
+.. toctree::
+    :maxdepth:2
+    :glob:
 
     base/index
     advanced/index   
