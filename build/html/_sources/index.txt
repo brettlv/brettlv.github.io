@@ -10,24 +10,14 @@ Welcome to Brett's Blog!
 =================================
  
 
-.. index::pair: table of; contens
-
-
 
 .. toctree::
-   :includehidden:
-   :maxdepth: 2
-   :caption: Contents:
-   
-   Preface.md
-   Chap1.md
-   Chap2.md 
+    :maxdepth:2
+    :glob:
 
-   END.md
-   ...
-
-   
-
+    base/index.rst
+    advanced/index.rst   
+    
 
 
 Indices and tables
@@ -37,8 +27,12 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
 .. note::
   Note ``url``
+  
+.. note::
+  Note ``issue``
 
 .. warning::
    Be careful!

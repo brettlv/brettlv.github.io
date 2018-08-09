@@ -28,7 +28,6 @@
 \usepackage{hypcap}% it must be loaded after hyperref.
 % Set up styles of URL: it should be placed after hyperref.
 \urlstyle{same}
-\addto\captionsenglish{\renewcommand{\contentsname}{Contents:}}
 
 \addto\captionsenglish{\renewcommand{\figurename}{Fig.\@ }}
 \addto\captionsenglish{\renewcommand{\tablename}{Table }}
@@ -36,7 +35,7 @@
 
 \addto\extrasenglish{\def\pageautorefname{page}}
 
-\setcounter{tocdepth}{1}
+
 
 
 
@@ -71,6 +70,10 @@
 
 \begin{sphinxadmonition}{note}{Note:}
 Note \sphinxcode{url}
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{note}{Note:}
+Note \sphinxcode{issue}
 \end{sphinxadmonition}
 
 \begin{sphinxadmonition}{warning}{Warning:}

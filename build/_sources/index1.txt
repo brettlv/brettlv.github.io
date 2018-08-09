@@ -12,12 +12,18 @@ Welcome to Brett's Blog!
 
 
 .. toctree::
-    :maxdepth:2
-    :glob:
+   :includehidden:
+   :maxdepth: 2
+   :caption: Contents:
+   
+   Preface.md
+   Chap1.md
+   Chap2.md 
+   END.md
+   ...
 
-    base/index.rst
-    advanced/index.rst   
-    
+   
+
 
 
 Indices and tables
@@ -27,12 +33,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-
 .. note::
   Note ``url``
-  
-.. note::
-  Note ``issue``
 
 .. warning::
    Be careful!
