@@ -1,0 +1,8 @@
+# Batch script for downloading CSC files
+#
+# Note: the commands use the network utility wget, which is included
+# with most operating systems. If it is not present on your system,
+# download wget or get more information about it at the GNU website:
+# http://www.gnu.org/software/wget/wget.html
+#
+wget -O acisf02946_000N001_r0009_reg3.fits.gz 'http://cda.cfa.harvard.edu/csccli/retrieveFile?filetype=srcreg&filename=acisf02946_000N001_r0009_reg3.fits'
