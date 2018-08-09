@@ -6,7 +6,7 @@
 + Sphinx Site [Website](http://brettlvgithubio.readthedocs.io/en/latest/blog/build/index.html)
 + Read the [Docs](http://brettlvgithubio.readthedocs.io/en/latest/)
 + HomePage[Github](https://brettlv.github.io/)
-+ Mygit[repo]<https://github.com/brettlv/brettlv.github.io>
++ Mygit[git](https://github.com/brettlv/brettlv.github.io)
 
 You can use the [editor on GitHub](https://github.com/brettlv/brettlv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
