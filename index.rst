@@ -22,7 +22,6 @@ Welcome to Brett's Blog!
 
 
 .. toctree::
-<<<<<<< HEAD
    :includehidden:
    :maxdepth: 4
    :caption: Contents:
@@ -38,7 +37,7 @@ Welcome to Brett's Blog!
     02_python
     03_numpy
     04_matplotlib
->>>>>>> 72d2313ed158411fcfca0f008105340e785af311
+
 
 
    
