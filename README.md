@@ -3,7 +3,7 @@
 
 ![Thumbnail of Solvey](huiyi1.jpg)
 
-+ Sphinx Site [Website](/blog/build/index.html)
++ Sphinx Site [Website](/build/index.html)
 + Read the [Docs](http://brettlvgithubio.readthedocs.io/en/latest/)
 + HomePage [Github](https://brettlv.github.io/)
 + Mygit [Repro](https://github.com/brettlv/brettlv.github.io/)

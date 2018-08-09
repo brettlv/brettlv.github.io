@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:50,filenames:["index.txt"],objects:{},objnames:{},objtypes:{},terms:{care:0,footnot:0,index:0,issue1:0,issue2:0,modul:0,note:0,page:0,search:0,url:0},titles:["Welcome to Brett&#8217;s Blog!"],titleterms:{blog:0,brett:0,indic:0,tabl:0,welcom:0}})
