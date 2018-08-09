@@ -19,6 +19,8 @@ Welcome to Brett's Blog!
    :maxdepth: 4
    :caption: Contents:
    ...
+   quick-start
+   test
 
    
 
