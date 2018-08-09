@@ -13,8 +13,16 @@ Welcome to Brett's Blog!
 .. index::pair: table of; contens
 
 
+入门篇
+==========
+
+这一部分主要介绍数据科学的入门内容;\
+包含数据科学的基础工具，如：Jupyter、Linux\
+以及 Python 基本的数据科学包 Numpy，画图包 Matplotlib;
+
 
 .. toctree::
+<<<<<<< HEAD
    :includehidden:
    :maxdepth: 4
    :caption: Contents:
@@ -22,9 +30,35 @@ Welcome to Brett's Blog!
 
    quick-start
    test
+=======
+    :maxdepth: 2
+    :numbered: 2
+    :includehidden:
+    01_linux
+    02_python
+    03_numpy
+    04_matplotlib
+>>>>>>> 72d2313ed158411fcfca0f008105340e785af311
+
 
    
+   
+高级篇
+==========
 
+这一部分主要介绍数据科学的进阶内容;\
+包含数据科学常用包的工具，如：
+
+
+.. toctree::
+    :maxdepth: 2
+    :numbered: 2
+    :includehidden:
+    
+    01_pycbc
+    02_gwpy
+    03_mcmc
+    04_astropy
 
 
 Indices and tables
