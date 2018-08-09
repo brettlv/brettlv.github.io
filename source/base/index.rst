@@ -10,6 +10,6 @@
     :numbered: 2
 
     01_linux.rst
-    02_python.rst
+    02_ipython.rst
     03_numpy.rst
     04_matplotlib.rst

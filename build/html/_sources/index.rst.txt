@@ -12,6 +12,7 @@ Welcome to Myblog's documentation!
 
    base/index
    advanced/index
+   poem/index
 
 
 Indices and tables
