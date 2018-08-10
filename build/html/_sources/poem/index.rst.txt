@@ -1,4 +1,4 @@
-Welcome to Brett's Poem!
+Notes of poem:
 ======================================
 
 
@@ -6,11 +6,11 @@ Welcome to Brett's Poem!
    :includehidden:
    :maxdepth: 2
 
-   Preface.md
-   Chap1.md
-   Chap2.md
-   
-   END.md
+   Preface.rst
+   Chap1.rst
+   Chap2.rst
+   Chap3.rst
+   END.rst
 
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/MacPorts 2018.47642_2) (preloaded format=pdflatex 2018.8.3)  9 AUG 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/MacPorts 2018.47642_2) (preloaded format=pdflatex 2018.8.3)  10 AUG 2018 09:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -964,6 +964,26 @@ or <return> to continue without it.}
 
 
 ! Package inputenc Error: Unicode character \GenericError {(inputenc)          
+      }{Package inputenc Error: Unicode character 序 (U+5E8F)
+(inputenc) not set up for use with LaTeX}{See the inputenc package documentatio
+n for explanation.}{You may provide a definition with
+(inputenc) \DeclareUnicodeCharacter } (U+5E8F)
+(inputenc) not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...to continue without it.}}}{5}{section.3.1}
+                                                  
+You may provide a definition with
+\GenericError { }{LaTeX Error: Can be used only in preamble}{See the LaTeX manu
+al or LaTeX Companion for explanation.}{Your command was ignored.
+Type I <command> <return> to replace it with another command,
+or <return> to continue without it.}
+
+
+! Package inputenc Error: Unicode character \GenericError {(inputenc)          
       }{Package inputenc Error: Unicode character 梦 (U+68A6)
 (inputenc) not set up for use with LaTeX}{See the inputenc package documentatio
 n for explanation.}{You may provide a definition with
@@ -1004,10 +1024,10 @@ or <return> to continue without it.}
 
 
 ! Package inputenc Error: Unicode character \GenericError {(inputenc)          
-      }{Package inputenc Error: Unicode character 序 (U+5E8F)
+      }{Package inputenc Error: Unicode character 悟 (U+609F)
 (inputenc) not set up for use with LaTeX}{See the inputenc package documentatio
 n for explanation.}{You may provide a definition with
-(inputenc) \DeclareUnicodeCharacter } (U+5E8F)
+(inputenc) \DeclareUnicodeCharacter } (U+609F)
 (inputenc) not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
@@ -1034,7 +1054,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 ...to continue without it.}}}{5}{section.3.4}
+l.17 ...to continue without it.}}}{5}{section.3.5}
                                                   
 You may provide a definition with
 \GenericError { }{LaTeX Error: Can be used only in preamble}{See the LaTeX manu
@@ -2314,7 +2334,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Welcome to Brett's Poem!}
+              {Here are some Brett's notes of poem:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2331,7 +2351,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Welcome to Brett's Poem!}
+              {Here are some Brett's notes of poem:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2348,7 +2368,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Welcome to Brett's Poem!}
+              {Here are some Brett's notes of poem:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2361,6 +2381,19 @@ or  <return>  to continue without it.}
 ]
 Chapter 3.
 
+! Package inputenc Error: Unicode character 序 (U+5E8F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \section{序}
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
 ! Package inputenc Error: Unicode character 曜 (U+66DC)
 (inputenc)                not set up for use with LaTeX.
 
@@ -2369,7 +2402,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.105 \#\# {[}曜
-                 灵集序{]}(Prefacec.md)
+                 灵集序{]}(/Prefacec)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2382,7 +2415,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.105 \#\# {[}曜灵
-                    集序{]}(Prefacec.md)
+                    集序{]}(/Prefacec)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2395,7 +2428,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.105 \#\# {[}曜灵集
-                       序{]}(Prefacec.md)
+                       序{]}(/Prefacec)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2408,7 +2441,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.105 \#\# {[}曜灵集序
-                          {]}(Prefacec.md)
+                          {]}(/Prefacec)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2465,15 +2498,28 @@ You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! Package inputenc Error: Unicode character 序 (U+5E8F)
+! Package inputenc Error: Unicode character 悟 (U+609F)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 \section{序尾}
-                      
+l.122 \section{悟}
+                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character 悟 (U+609F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \#\# {[}悟
+                 {]}()
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2485,8 +2531,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 \section{序尾}
-                      
+l.129 \section{尾}
+                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2498,8 +2544,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \#\# {[}序
-                 尾{]}(endc.md)
+l.132 \#\# {[}序
+                 尾{]}(/endc)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2511,8 +2557,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \#\# {[}序尾
-                    {]}(endc.md)
+l.132 \#\# {[}序尾
+                    {]}(/endc)
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2520,27 +2566,27 @@ You may provide a definition with
 
 ]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 131.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 137.
 
 
 (/opt/local/share/texmf-texlive/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (./Myblog.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
  (./Myblog.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `Myblog.out' has not changed.
-(rerunfilecheck)             Checksum: 5204F45A26EE68019E11150B86399883;1463.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
+(rerunfilecheck)             Checksum: F75125A028812F5063BBDF9260E91DD0;1560.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
- 13469 strings out of 493762
- 186727 string characters out of 6152600
- 279498 words of memory out of 5000000
- 16864 multiletter control sequences out of 15000+600000
+ 13474 strings out of 493762
+ 186790 string characters out of 6152600
+ 279568 words of memory out of 5000000
+ 16868 multiletter control sequences out of 15000+600000
  38350 words of font info for 56 fonts, out of 8000000 for 9000
  431 hyphenation exceptions out of 8191
  37i,11n,45p,1715b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2549,10 +2595,10 @@ Here is how much of TeX's memory you used:
 ive/fonts/type1/urw/helvetic/uhvbo8a.pfb></opt/local/share/texmf-texlive/fonts/
 type1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/time
 s/utmr8a.pfb>
-Output written on Myblog.pdf (11 pages, 54912 bytes).
+Output written on Myblog.pdf (11 pages, 54975 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
