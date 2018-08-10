@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/MacPorts 2018.47642_2) (preloaded format=pdflatex 2018.8.3)  10 AUG 2018 09:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/MacPorts 2018.47642_2) (preloaded format=pdflatex 2018.8.3)  10 AUG 2018 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,8 +860,25 @@ Type  H <return>  for immediate help.
                                                   
 l.2 ...n> to continue without it.}}}{1}{chapter.1}
                                                   
-? q
-OK, entering \batchmode...
+? git add .
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? git commit -a -m 'v'
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? git push origin masterq
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
 
 ! Package inputenc Error: Unicode character \GenericError {(inputenc)          
       }{Package inputenc Error: Unicode character 门 (U+95E8)
@@ -876,12 +893,8 @@ Type  H <return>  for immediate help.
                                                   
 l.2 ...n> to continue without it.}}}{1}{chapter.1}
                                                   
-You may provide a definition with
-\GenericError { }{LaTeX Error: Can be used only in preamble}{See the LaTeX manu
-al or LaTeX Companion for explanation.}{Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.}
-
+? q
+OK, entering \batchmode...
 
 ! Package inputenc Error: Unicode character \GenericError {(inputenc)          
       }{Package inputenc Error: Unicode character 篇 (U+7BC7)
@@ -2334,7 +2347,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Here are some Brett's notes of poem:}
+              {曜灵篇:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2351,7 +2364,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Here are some Brett's notes of poem:}
+              {曜灵篇:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2368,7 +2381,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.100 \chapter
-              {Here are some Brett's notes of poem:}
+              {曜灵篇:}
 You may provide a definition with
 \GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
 the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
@@ -2380,6 +2393,57 @@ or  <return>  to continue without it.}
 
 ]
 Chapter 3.
+
+! PACKAGE INPUTENC ERROR: UNICODE CHARACTER ƛ� (U+66DC)
+(INPUTENC)                NOT SET UP FOR USE WITH LATEX.
+
+SEE THE INPUTENC PACKAGE DOCUMENTATION FOR EXPLANATION.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \chapter{曜灵篇:}
+                          
+YOU MAY PROVIDE A DEFINITION WITH
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! PACKAGE INPUTENC ERROR: UNICODE CHARACTER ǁ� (U+7075)
+(INPUTENC)                NOT SET UP FOR USE WITH LATEX.
+
+SEE THE INPUTENC PACKAGE DOCUMENTATION FOR EXPLANATION.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \chapter{曜灵篇:}
+                          
+YOU MAY PROVIDE A DEFINITION WITH
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! PACKAGE INPUTENC ERROR: UNICODE CHARACTER Ǐ� (U+7BC7)
+(INPUTENC)                NOT SET UP FOR USE WITH LATEX.
+
+SEE THE INPUTENC PACKAGE DOCUMENTATION FOR EXPLANATION.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \chapter{曜灵篇:}
+                          
+YOU MAY PROVIDE A DEFINITION WITH
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
 
 ! Package inputenc Error: Unicode character 序 (U+5E8F)
 (inputenc)                not set up for use with LaTeX.
@@ -2401,8 +2465,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \#\# {[}曜
-                 灵集序{]}(/Prefacec)
+l.105 曜
+         灵集序
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2414,8 +2478,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \#\# {[}曜灵
-                    集序{]}(/Prefacec)
+l.105 曜灵
+            集序
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2427,8 +2491,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \#\# {[}曜灵集
-                       序{]}(/Prefacec)
+l.105 曜灵集
+               序
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2440,8 +2504,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 \#\# {[}曜灵集序
-                          {]}(/Prefacec)
+l.105 曜灵集序
+                  
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2544,8 +2608,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 \#\# {[}序
-                 尾{]}(/endc)
+l.133 序
+         尾
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -2557,45 +2621,106 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 \#\# {[}序尾
-                    {]}(/endc)
+l.133 序尾
+            
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
- [5] [6
+ [5]
+
+! Package inputenc Error: Unicode character 曜 (U+66DC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \chapter
+              {Indices and tables}
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! Package inputenc Error: Unicode character 灵 (U+7075)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \chapter
+              {Indices and tables}
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+! Package inputenc Error: Unicode character 篇 (U+7BC7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \chapter
+              {Indices and tables}
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See 
+the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+ [6
 
 ]
 Chapter 4.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 137.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 138.
 
 
 (/opt/local/share/texmf-texlive/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (./Myblog.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./Myblog.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
-Package rerunfilecheck Info: File `Myblog.out' has not changed.
-(rerunfilecheck)             Checksum: F75125A028812F5063BBDF9260E91DD0;1560.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+
+Package rerunfilecheck Warning: File `Myblog.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Myblog.out':
+(rerunfilecheck)             Before: F75125A028812F5063BBDF9260E91DD0;1560
+(rerunfilecheck)             After:  DF61DE1FB6D2A6E5646D510662B7B524;1295.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 13474 strings out of 493762
- 186790 string characters out of 6152600
- 279568 words of memory out of 5000000
- 16868 multiletter control sequences out of 15000+600000
+ 13479 strings out of 493762
+ 186878 string characters out of 6152600
+ 279562 words of memory out of 5000000
+ 16873 multiletter control sequences out of 15000+600000
  38350 words of font info for 56 fonts, out of 8000000 for 9000
  431 hyphenation exceptions out of 8191
- 37i,11n,45p,1715b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,45p,1716b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/opt/local/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</opt/local/share
 /texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/local/share/texmf-texl
 ive/fonts/type1/urw/helvetic/uhvbo8a.pfb></opt/local/share/texmf-texlive/fonts/
 type1/urw/times/utmb8a.pfb></opt/local/share/texmf-texlive/fonts/type1/urw/time
 s/utmr8a.pfb>
-Output written on Myblog.pdf (11 pages, 54975 bytes).
+Output written on Myblog.pdf (11 pages, 54517 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  145 compressed objects within 2 object streams
