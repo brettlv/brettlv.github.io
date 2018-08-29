@@ -6,6 +6,7 @@
 
 
 .. toctree::
+    :includehidden:
     :maxdepth: 2
     :numbered: 2
 

@@ -5,9 +5,10 @@
 pycbc,gwpy,astropy,mcmx;
 
 .. toctree::
+    :includehidden:
     :maxdepth: 2
     :numbered: 2
-    :includehidden:
+
 
     01_pycbc
     02_gwpy
