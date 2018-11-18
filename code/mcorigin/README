@@ -1,0 +1,13 @@
+Version 3 plus: reflection and filtering out photons hitting the outer disk
+
+compilation: 
+gcc mtc_carlo_uni.c quadrat.c -lm -DDEBUG -o mtc_uni
+
+Important parameters:
+temp : electron temperature, c.a. 100 keV
+taumax: radial optical thickness  0.5-2 
+number_of_MC_steps - 
+cold_refl 0 - no refl, 1 - with refl.
+rad_temp - max. temperature of the soft photons
+
+output: mcomp_number.dat, column 1- energy, 2 - spectrum (F_E)

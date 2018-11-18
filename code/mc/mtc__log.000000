@@ -1,0 +1,9 @@
+Uniform density run.  Mon Feb 29 15:35:35 2016
+ 
+Spatial distribution: 6 (-1.0),  Rin: 6.00,  rndseed: -52535 
+Tau: 2.00,  plasma temp (keV): 100.0,  T0 (keV): 0.100 
+ 20000  20000.0 
+ 40000  20000.0 
+ 60000  15000.0 
+ 80000  16000.0 
+100000  16666.7 
