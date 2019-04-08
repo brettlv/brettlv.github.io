@@ -1,0 +1,115 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,FUV (GALEX) AB       ,19.067,+/- 0.116  ,mag                  ,1970000000000000.0,8.57e-05,+/- 9.16E-06 ,Jy                   ,"Broad-band
+",                                        ,2007AJ....133.1780T,1
+1,2,FUV (GALEX) AB       ,19.1343,+/- 0.135331 ,mag                  ,1950000000000000.0,8.06e-05,+/- 1.00E-05 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GASC..C...0000S,2
+2,3,FUV (GALEX) AB       ,19.6892,+/- 0.190134 ,mag                  ,1950000000000000.0,4.83e-05,+/- 8.46E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,3
+3,4,NUV (GALEX) AB       ,18.79,+/- 0.061  ,mag                  ,1360000000000000.0,0.00011100000000000001,+/- 6.22E-06 ,Jy                   ,"Broad-band
+",                                        ,2007AJ....133.1780T,4
+4,5,NUV (GALEX) AB       ,18.7681,+/- 0.0670477 ,mag                  ,1290000000000000.0,0.000113,+/- 6.97E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GASC..C...0000S,5
+5,6,NUV (GALEX) AB       ,19.4024,+/- 0.0906591 ,mag                  ,1290000000000000.0,6.3e-05,+/- 5.26E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,6
+6,7,u (SDSS CModel) AB   ,18.303,           ...,asinh mag            ,836000000000000.0,0.000173,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,7
+7,8,u (SDSS Petrosian)AB ,18.277,+/- 0.018  ,asinh mag            ,836000000000000.0,0.000184,+/- 2.97E-06 ,Jy                   ,"Broad-band
+","SDSS Petrosian Radius =    0.55"".         
+",2004SDSS3.C...0000:,8
+8,9,u (SDSS PSF) AB      ,18.392,+/- 0.020  ,asinh mag            ,836000000000000.0,0.000166,+/- 3.03E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,9
+9,10,u (SDSS PSF) AB      ,18.392,+/- 0.020  ,asinh mag            ,836000000000000.0,0.000166,+/- 3.05E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,10
+10,11,u (SDSS CModel) AB   ,18.303,           ...,asinh mag            ,836000000000000.0,0.00018,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,11
+11,12,u (SDSS Model) AB    ,18.206,+/- 0.015  ,asinh mag            ,836000000000000.0,0.000197,+/- 2.72E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,12
+12,13,u (SDSS Model) AB    ,18.206,+/- 0.015  ,asinh mag            ,836000000000000.0,0.000197,+/- 2.64E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,13
+13,14,[Fe II] 4570 (SDSS)  ,-14.1,           ...,log(erg/s/cm^2^)     ,656000000000000.0,794000000.0,    ...      ,Jy-Hz                ,"Line
+",Broad component                         ,2011ApJ...736...86D,14
+14,15,[Fe II] 4570 (SDSS)  ,-15.37,           ...,log(erg/s/cm^2^)     ,656000000000000.0,42700000.0,    ...      ,Jy-Hz                ,"Line
+",Narrow component                        ,2011ApJ...736...86D,15
+15,16,g (SDSS Petrosian)AB ,18.179000000000002,+/- 0.008  ,asinh mag            ,617000000000000.0,0.000194,+/- 1.49E-06 ,Jy                   ,"Broad-band
+","SDSS Petrosian Radius =    0.65"".         
+",2004SDSS3.C...0000:,16
+16,17,g (SDSS PSF) AB      ,18.345,+/- 0.017  ,asinh mag            ,617000000000000.0,0.000167,+/- 2.61E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,17
+17,18,g (SDSS Model) AB    ,18.119,+/- 0.007  ,asinh mag            ,617000000000000.0,0.000205,+/- 1.32E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,18
+18,19,g (SDSS CModel) AB   ,18.209,           ...,asinh mag            ,617000000000000.0,0.00018899999999999999,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,19
+19,20,g (SDSS CModel) AB   ,18.209,           ...,asinh mag            ,617000000000000.0,0.00018899999999999999,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,20
+20,21,g (SDSS Model) AB    ,18.119,+/- 0.007  ,asinh mag            ,617000000000000.0,0.000205,+/- 1.32E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,21
+21,22,H{beta} (SDSS)       ,-15.91,           ...,log(erg/s/cm^2^)     ,617000000000000.0,12300000.0,    ...      ,Jy-Hz                ,"Line
+",Narrow component                        ,2011ApJ...736...86D,22
+22,23,H{beta} (SDSS)       ,-13.88,           ...,log(erg/s/cm^2^)     ,617000000000000.0,1320000000.0,    ...      ,Jy-Hz                ,"Line
+",Broad component                         ,2011ApJ...736...86D,23
+23,24,g (SDSS PSF) AB      ,18.345,+/- 0.017  ,asinh mag            ,617000000000000.0,0.000167,+/- 2.63E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,24
+24,25,[O III] 5007 (SDSS)  ,-14.73,           ...,log(erg/s/cm^2^)     ,599000000000000.0,186000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...736...86D,25
+25,26,r (SDSS Petrosian)AB ,17.88,+/- 0.008  ,asinh mag            ,477000000000000.0,0.000256,+/- 1.85E-06 ,Jy                   ,"Broad-band
+","SDSS Petrosian Radius =    0.71"".         
+",2004SDSS3.C...0000:,26
+26,27,r (SDSS CModel) AB   ,17.873,           ...,asinh mag            ,477000000000000.0,0.000258,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,27
+27,28,r (SDSS Model) AB    ,17.873,+/- 0.007  ,asinh mag            ,477000000000000.0,0.000258,+/- 1.66E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,28
+28,29,r (SDSS PSF) AB      ,18.192,+/- 0.010  ,asinh mag            ,477000000000000.0,0.000192,+/- 1.77E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,29
+29,30,r (SDSS Model) AB    ,17.873,+/- 0.007  ,asinh mag            ,477000000000000.0,0.00025699999999999996,+/- 1.56E-06 ,Jy                   ,"Broad-band
+","SDSS Effective Radius =   0.16"" x   0.15"".
+",2004SDSS3.C...0000:,30
+30,31,r (SDSS CModel) AB   ,17.873,           ...,asinh mag            ,477000000000000.0,0.00025699999999999996,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,31
+31,32,r (SDSS PSF) AB      ,18.192,+/- 0.010  ,asinh mag            ,477000000000000.0,0.000192,+/- 1.76E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,32
+32,33,i (SDSS Model) AB    ,17.617,+/- 0.007  ,asinh mag            ,389000000000000.0,0.00032599999999999996,+/- 2.10E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,33
+33,34,i (SDSS PSF) AB      ,17.924,+/- 0.011  ,asinh mag            ,389000000000000.0,0.000246,+/- 2.49E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,34
+34,35,i (SDSS Model) AB    ,17.617,+/- 0.007  ,asinh mag            ,389000000000000.0,0.00032599999999999996,+/- 2.10E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,35
+35,36,i (SDSS CModel) AB   ,17.62,           ...,asinh mag            ,389000000000000.0,0.000325,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,36
+36,37,i (SDSS PSF) AB      ,17.924,+/- 0.011  ,asinh mag            ,389000000000000.0,0.000246,+/- 2.60E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,37
+37,38,i (SDSS Petrosian)AB ,17.622,+/- 0.009  ,asinh mag            ,389000000000000.0,0.000575,+/- 4.96E-06 ,Jy                   ,"Broad-band
+","SDSS Petrosian Radius =    0.72"".         
+",2004SDSS3.C...0000:,38
+38,39,i (SDSS CModel) AB   ,17.62,           ...,asinh mag            ,389000000000000.0,0.000325,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,39
+39,40,z (SDSS Model) AB    ,17.484,+/- 0.016  ,asinh mag            ,325000000000000.0,0.000362,+/- 5.33E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,40
+40,41,z (SDSS Model) AB    ,17.484,+/- 0.016  ,asinh mag            ,325000000000000.0,0.000362,+/- 5.20E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,41
+41,42,z (SDSS Petrosian)AB ,17.487000000000002,+/- 0.025  ,asinh mag            ,325000000000000.0,0.000361,+/- 8.18E-06 ,Jy                   ,"Broad-band
+","SDSS Petrosian Radius =    0.76"".         
+",2004SDSS3.C...0000:,42
+42,43,z (SDSS PSF) AB      ,17.8,+/- 0.021  ,asinh mag            ,325000000000000.0,0.00027,+/- 5.20E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,43
+43,44,z (SDSS PSF) AB      ,17.8,+/- 0.021  ,asinh mag            ,325000000000000.0,0.00027,+/- 5.23E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,44
+44,45,z (SDSS CModel) AB   ,17.509,           ...,asinh mag            ,325000000000000.0,0.00036,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2004SDSS3.C...0000:,45
+45,46,z (SDSS CModel) AB   ,17.509,           ...,asinh mag            ,325000000000000.0,0.000354,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,46
+46,47,J (2MASS/FLWO)       ,16.577,+/- 0.12   ,mag                  ,243000000000000.0,0.000373,+/- 4.12E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,47
+47,48,J (2MASS/FLWO)       ,16.43,+/- 0.252  ,mag                  ,243000000000000.0,0.00042699999999999997,+/- 9.91E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,48
+48,49,H (2MASS/FLWO)       ,15.51,+/- 0.172  ,mag                  ,180000000000000.0,0.00064,+/- 1.01E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,49
+49,50,H (2MASS/FLWO)       ,15.717,+/- 0.1    ,mag                  ,180000000000000.0,0.000529,+/- 4.87E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,50
+50,51,K_s (2MASS/FLWO)     ,14.6,+/- 0.08   ,mag                  ,139000000000000.0,0.000964,+/- 7.10E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,51
+51,52,K_s (2MASS/FLWO)     ,14.538,+/- 0.109  ,mag                  ,139000000000000.0,0.0010199999999999999,+/- 1.02E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,52
+52,53,24 microns (MIPS)    ,9202.5,+/- 6.0783E+01 ,microJy              ,12700000000000.0,0.0092,+/- 6.08E-05 ,Jy                   ,"Broad-band
+",PSF fit                                 ,2013SSTSLC4.2....0C,53
+53,54,24 microns (MIPS)    ,8737.3,+/- 4.8851E+01 ,microJy              ,12700000000000.0,0.008740000000000001,+/- 4.89E-05 ,Jy                   ,"Broad-band
+","14.7"" aperture                          ",2013SSTSLC4.2....0C,54

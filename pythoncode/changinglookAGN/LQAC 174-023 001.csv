@@ -1,0 +1,3 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,1.4GHz               ,8.2,+/- 0.5    ,milliJy              ,1400000000.0,0.0082,+/- 5.00E-04 ,Jy                   ,"Broad-band
+",High peak                               ,1998AJ....115.1693C,1

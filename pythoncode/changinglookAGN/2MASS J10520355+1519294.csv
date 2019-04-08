@@ -1,0 +1,23 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,u (SDSS PSF) AB      ,19.082,+/- 0.024  ,asinh mag            ,836000000000000.0,8.77e-05,+/- 1.94E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,1
+1,2,g (SDSS PSF) AB      ,18.916,+/- 0.027  ,asinh mag            ,617000000000000.0,9.85e-05,+/- 2.45E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,2
+2,3,r (SDSS PSF) AB      ,18.768,+/- 0.015  ,asinh mag            ,477000000000000.0,0.000113,+/- 1.56E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,3
+3,4,i (SDSS PSF) AB      ,18.765,+/- 0.019  ,asinh mag            ,389000000000000.0,0.000113,+/- 1.98E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,4
+4,5,z (SDSS PSF) AB      ,18.151,+/- 0.026  ,asinh mag            ,325000000000000.0,0.000196,+/- 4.69E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,5
+5,6,J (2MASS/FLWO)       ,17.183,+/- 0.207  ,mag                  ,243000000000000.0,0.000213,+/- 4.07E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,6
+6,7,J (2MASS/FLWO)       ,16.823,+/- 0.117  ,mag                  ,243000000000000.0,0.000297,+/- 3.20E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,7
+7,8,H (2MASS/FLWO)       ,15.777000000000001,+/- 0.305  ,mag                  ,180000000000000.0,0.0005009999999999999,+/- 1.41E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,8
+8,9,H (2MASS/FLWO)       ,16.081,+/- 0.152  ,mag                  ,180000000000000.0,0.00037799999999999997,+/- 5.30E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,9
+9,10,K_s (2MASS/FLWO)     ,15.857999999999999,+/- 0.399  ,mag                  ,139000000000000.0,0.000303,+/- 1.11E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,10
+10,11,K_s (2MASS/FLWO)     ,15.529000000000002,+/- 0.166  ,mag                  ,139000000000000.0,0.00041,+/- 6.26E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,11

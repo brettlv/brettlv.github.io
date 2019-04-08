@@ -1,0 +1,295 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,14-195 keV (XMM)     , -11.0                         ,           ...,log(erg/s/cm^2^)     ,2.53e+19,3.95e-08,    ...      ,Jy                   ,"Broad-band
+",                                        ,2012ApJ...745..107W,1
+1,2,14-195 keV (Swift)   , 3.7E-11                       ,           ...,erg/cm^2^/s          ,2.53e+19,1.4599999999999998e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2008ApJ...681..113T,2
+2,3,15-150 keV (Swift)   , 1.2e-11                       ,+/- 7.2e-12 ,erg/cm^2^/s          ,1.99e+19,6.03e-08,+/- 3.62E-08 ,Jy                   ,"Broad-band
+",                                        ,2010A&A...524A..64C,3
+3,4,40-100 keV INTEGRAL  , 0.60E-11                      ,           ...,erg/cm^2^/s          ,1.69e+19,3.55e-08,    ...      ,Jy                   ,"Broad-band
+",                                        ,2009A&A...505..417B,4
+4,5,15-55 keV (Swift)    , 1.30E-11                      ,+/- 0.22E-11 ,erg/cm^2^/s          ,8.46e+18,1.54e-07,+/- 2.60E-08 ,Jy                   ,"Broad-band
+",                                        ,2009ApJ...699..603A,5
+5,6,20-40 keV (INTEGRAL) , 0.50E-11                      ,           ...,erg/cm^2^/s          ,7.25e+18,6.900000000000001e-08,    ...      ,Jy                   ,"Broad-band
+",                                        ,2009A&A...505..417B,6
+6,7,4-10 keV (XMM)       , 4.5E-12                       ,           ...,erg/cm^2^/s          ,1.69e+18,2.66e-07,    ...      ,Jy                   ,"Broad-band
+",Obs. date: 2004-07-04                   ,2010A&A...521A..57T,7
+7,8,F_2-10_ keV          , 2.7                           ,+/- 10  %  ,10^-11^ erg/s/cm^2^  ,1.45e+18,1.86e-06,+/- 1.86E-07 ,Jy                   ,"Broad-band
+",Energy index 0.93                       ,1989MNRAS.240..833T,8
+8,9,2-10 keV             , 27.00E-12                     ,+/- 2.70E-12 ,ergs cm^-2^ s^-1^    ,1.45e+18,1.86e-06,+/- 1.86E-07 ,Jy                   ,"Broad-band
+",Flux from 1989MNRAS.240..833T           ,2005ApJ...629...61K,9
+9,10,2.0-10 keV (HEAO-1)  , 2.8E-11                       ,           ...,ergs cm^-2^ s^-1^    ,1.45e+18,1.93e-06,    ...      ,Jy                   ,"Broad-band
+",                                        ,2006AJ....131.2843S,10
+10,11,2.0-10 keV (XMM)     , 0.5E-11                       ,           ...,ergs cm^-2^ s^-1^    ,1.45e+18,3.45e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2006AJ....131.2843S,11
+11,12,2-10 keV             , 1.97E-14                      ,           ...,W/m^2^               ,1.45e+18,1.36e-06,    ...      ,Jy                   ,"Broad-band
+",Intrinsic flux                          ,2004A&A...418..465L,12
+12,13,2-10 keV             , 1.970E-14                     ,           ...,W/m^2^               ,1.45e+18,1.36e-06,    ...      ,Jy                   ,"Broad-band
+",Observed flux                           ,2004A&A...418..465L,13
+13,14,2-10 keV (XMM)       , 0.69E-11                      ,           ..., erg/cm^2^/s         ,1.45e+18,4.7600000000000003e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2007MNRAS.382..194N,14
+14,15,2-10 keV (XMM)       , 6.950E-12                     ,+/- 0.110E-12 , erg/cm^2^/s         ,1.45e+18,4.79e-07,+/- 7.59E-09 ,Jy                   ,"Broad-band
+",                                        ,2009A&A...495..421B,15
+15,16,2-10 keV (XMM)       , 0.56E-11                      ,           ...,erg/cm^2^/s          ,1.45e+18,3.86e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2009A&A...507..159D,16
+16,17,2-10 keV (Chandra)   , 0.85E-11                      ,           ...,erg/cm^2^/s          ,1.45e+18,5.86e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2010ApJS..187..581S,17
+17,18,2-10 keV (XMM)       , 4.7E-12                       ,           ...,erg/s/cm^2^          ,1.45e+18,3.24e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2010ApJ...713L..11Z,18
+18,19,2-10 keV (XMM)       , -11.1                         ,           ...,log(erg/s/cm^2^)     ,1.45e+18,5.48e-07,    ...      ,Jy                   ,"Broad-band
+",                                        ,2012ApJ...745..107W,19
+19,20,2-8 keV (Chandra)    , 6.72E-12                      ,+/- 0.45E-12 , erg/cm^2^/s         ,1.21e+18,5.55e-07,+/- 3.72E-08 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,20
+20,21,2-8 keV (XMM)        , 5.62E-12                      ,+/- 0.09E-12 , erg/cm^2^/s         ,1.21e+18,4.6399999999999997e-07,+/- 7.44E-09 ,Jy                   ,"Broad-band
+",EPIC/pn data                            ,2007A&A...470...73L,21
+21,22,2-8 keV (XMM)        , 5.97E-12                      ,+/- 0.09E-12 , erg/cm^2^/s         ,1.21e+18,4.93e-07,+/- 7.44E-09 ,Jy                   ,"Broad-band
+",EPIC/MOS1 data                          ,2007A&A...470...73L,22
+22,23,2-8 keV (XMM)        , 5.60E-12                      ,+/- 0.09E-12 , erg/cm^2^/s         ,1.21e+18,4.6299999999999995e-07,+/- 7.44E-09 ,Jy                   ,"Broad-band
+",EPIC/MOS2 data                          ,2007A&A...470...73L,23
+23,24,0.2-2 keV (ROSAT)    , 6.2250E-11                    ,+/- 0.9 %  ,erg/s/cm^2^          ,3.15e+17,1.98e-05,+/- 1.71E-07 ,Jy                   ,"Broad-band
+",                                        ,2000WGA...C...0000W,24
+24,25,0.5-2 keV (XMM)      , 3.310E-12                     ,+/- 0.110E-12 , erg/cm^2^/s         ,3.02e+17,1.1e-06,+/- 3.64E-08 ,Jy                   ,"Broad-band
+",                                        ,2009A&A...495..421B,25
+25,26,0.1-2.4 keV (ROSAT)  , 4.63e-11                      ,+/- 2.87e-12 ,erg/cm^2^/s          ,3.02e+17,1.53e-05,+/- 9.50E-07 ,Jy                   ,"Broad-band
+",Unabsorbed flux                         ,2010MNRAS.401.1151M,26
+26,27,0.3-2 keV (XMM)      , -11.4                         ,           ...,log(erg/s/cm^2^)     ,2.78e+17,1.43e-06,    ...      ,Jy                   ,"Broad-band
+",                                        ,2012ApJ...745..107W,27
+27,28,1450 A               , 2.4E-14                       ,+/- 1.4E-14 ,ergs/cm^2^/s/A       ,2070000000000000.0,0.0016899999999999999,+/- 9.83E-04 ,Jy                   ,"Broad-band
+",                                        ,2005ApJ...629...61K,28
+28,29,FUV (GALEX) AB       , 16.47                         ,           ..., mag                 ,1980000000000000.0,0.000938,    ...      ,Jy                   ,"Broad-band
+",                                        ,2007ApJS..173..404B,29
+29,30,FUV (GALEX) AB       , 16.9074                       ,+/- 0.0496132 ,mag                  ,1950000000000000.0,0.000627,+/- 2.86E-05 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GASC..C...0000S,30
+30,31,FUV (GALEX) AB       , 18.8533                       ,+/- 0.136009 ,mag                  ,1950000000000000.0,0.00010400000000000001,+/- 1.31E-05 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,31
+31,32,FUV (GALEX) AB       , 16.8695                       ,+/- 0.00853219 ,mag                  ,1950000000000000.0,0.0006490000000000001,+/- 5.10E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GMSC..C...0000S,32
+32,33,FUV (GALEX) AB       , 18.6230                       ,+/- 0.0201688 ,mag                  ,1950000000000000.0,0.000129,+/- 2.40E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GMSC..C...0000S,33
+33,34,C IV 1549            , -11.64                        ,+/- 0.01   ,log(erg/s/cm^2^)     ,1940000000000000.0,229000000000.0,+/- 5.28E+09 ,Jy-Hz                ,"Line
+",                                        ,2009ApJ...702..767W,34
+34,35,UVW2 (XMM-OM)        , 1.97E-15                      ,+/- 0.10E-15 ,erg/cm^2^/s/A        ,1410000000000000.0,0.000296,+/- 1.50E-05 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,35
+35,36,UVM2 (XMM-OM)        , 2.49E-15                      ,+/- 0.07E-15 ,erg/cm^2^/s/A        ,1300000000000000.0,0.00044400000000000006,+/- 1.25E-05 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,36
+36,37,NUV (GALEX) AB       , 16.4637                       ,+/- 0.0247029 ,mag                  ,1290000000000000.0,0.0009429999999999999,+/- 2.15E-05 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GASC..C...0000S,37
+37,38,NUV (GALEX) AB       , 18.5295                       ,+/- 0.0659822 ,mag                  ,1290000000000000.0,0.00014099999999999998,+/- 8.55E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,38
+38,39,NUV (GALEX) AB       , 16.4714                       ,+/- 0.00461249 ,mag                  ,1290000000000000.0,0.000936,+/- 3.98E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GMSC..C...0000S,39
+39,40,NUV (GALEX) AB       , 18.7495                       ,+/- 0.0125101 ,mag                  ,1290000000000000.0,0.00011499999999999999,+/- 1.32E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GMSC..C...0000S,40
+40,41,UVW1 (XMM-OM)        , 2.46E-15                      ,+/- 0.02E-15 ,erg/cm^2^/s/A        ,1030000000000000.0,0.000696,+/- 5.66E-06 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,41
+41,42,U (XMM-OM)           , 2.97E-15                      ,+/- 0.01E-15 ,erg/cm^2^/s/A        ,871000000000000.0,0.00117,+/- 3.95E-06 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,42
+42,43,u (KPNO)             , 15.76                         ,           ...,mag                  ,853000000000000.0,0.0007650000000000001,    ...      ,Jy                   ,"Broad-band
+",Host mag; AGN contamination removed     ,2011ApJ...739...57K,43
+43,44,u (SDSS CModel) AB   , 15.848                        ,           ...,asinh mag            ,836000000000000.0,0.00173,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,44
+44,45,u (SDSS Model) AB    , 15.365                        ,+/- 0.008  ,asinh mag            ,836000000000000.0,0.0026899999999999997,+/- 1.98E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,45
+45,46,u (SDSS PSF) AB      , 17.147                        ,+/- 0.013  ,asinh mag            ,836000000000000.0,0.000521,+/- 6.24E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,46
+46,47,U (Johnson)          , 5.45                          ,+/- 0.72   ,milliJy              ,819000000000000.0,0.00545,+/- 7.20E-04 ,Jy                   ,"Broad-band
+","29.3"" aperture                          ",1983ApJS...52..341M,47
+47,48,103a-O (POSS-I O)    , 14.58                         ,           ...,mag                  ,740000000000000.0,0.00561,    ...      ,Jy                   ,"Broad-band
+",                                        ,2006ApJ...639...37K,48
+48,49,V (MAGNUM)           , 4.75                          ,+/- 0.07   ,milliJy              ,683000000000000.0,0.00475,+/- 7.00E-05 ,Jy                   ,"Broad-band
+","8.3"" aperture                           ",2010ApJ...711..461S,49
+49,50,m_p                  , 14.0                          ,+/- 0.4    ,mag                  ,681000000000000.0,0.0107,+/- 4.77E-03 ,Jy                   ,"Broad-band
+",                                        ,1965CGCG5.C...0000Z,50
+50,51,B (m_B)              , 13.85                         ,+/- 0.18   ,mag                  ,681000000000000.0,0.0123,+/- 2.21E-03 ,Jy                   ,"Broad-band
+",                                        ,1991RC3.9.C...0000d,51
+51,52,B (m_B^0)            , 13.66                         ,           ...,mag                  ,681000000000000.0,0.0146,    ...      ,Jy                   ,"Broad-band
+",                                        ,1991RC3.9.C...0000d,52
+52,53,B (Johnson)          , 8.39                          ,+/- 0.53   ,milliJy              ,669000000000000.0,0.00839,+/- 5.30E-04 ,Jy                   ,"Broad-band
+","29.3"" aperture                          ",1983ApJS...52..341M,53
+53,54,B (XMM-OM)           , 5.76E-15                      ,+/- 0.01E-15 ,erg/cm^2^/s/A        ,666000000000000.0,0.0039,+/- 6.76E-06 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...470...73L,54
+54,55,J_pg                 , 13.9                          ,+/- 0.3    , mag                 ,641000000000000.0,0.0109,+/- 3.01E-03 ,Jy                   ,"Broad-band
+",Isophotal mag                           ,2007ApJS..170...33P,55
+55,56,g (KPNO)             , 13.29                         ,           ...,mag                  ,630000000000000.0,0.019,    ...      ,Jy                   ,"Broad-band
+",Host mag; AGN contamination removed     ,2011ApJ...739...57K,56
+56,57,g (SDSS Model) AB    , 13.658                        ,+/- 0.002  ,asinh mag            ,617000000000000.0,0.0125,+/- 2.30E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,57
+57,58,g (SDSS PSF) AB      , 16.130                        ,+/- 0.025  ,asinh mag            ,617000000000000.0,0.00128,+/- 2.95E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,58
+58,59,g (SDSS CModel) AB   , 13.623                        ,           ...,asinh mag            ,617000000000000.0,0.0129,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,59
+59,60,5100 A (HST/HRC)     , 4.83E-15                      ,+/- 0.98E-15 ,erg/cm^2^/s/A        ,588000000000000.0,0.0042,+/- 8.51E-04 ,Jy                   ,"Broad-band
+","Aperture = 5"" x 7.6""                    ",2006ApJ...644..133B,60
+60,61,B (MAGNUM)           , 1.99                          ,+/- 0.13   ,milliJy              ,549000000000000.0,0.00199,+/- 1.30E-04 ,Jy                   ,"Broad-band
+","8.3"" aperture                           ",2010ApJ...711..461S,61
+61,62,V (Johnson)          , 13.81                         ,+/- 0.02   ,mag                  ,542000000000000.0,0.0109,+/- 2.03E-04 ,Jy                   ,"Broad-band
+","25"" aperture                            ",1979SvAL....5..305D,62
+62,63,V (Johnson)          , 15.50                         ,+/- 0.35   ,milliJy              ,542000000000000.0,0.0155,+/- 3.50E-04 ,Jy                   ,"Broad-band
+","29.3"" aperture                          ",1983ApJS...52..341M,63
+63,64,V (Johnson)          , 15.68                         ,           ...,mag                  ,542000000000000.0,0.00195,    ...      ,Jy                   ,"Broad-band
+",Bulge magnitude                         ,2009ApJ...694L.166B,64
+64,65,F606W (HST)          , 14.79                         ,+/- 0.21   , mag                 ,505000000000000.0,0.00413,+/- 7.98E-04 ,Jy                   ,"Broad-band
+",Bulge mag; r^1/4^-law fit               ,2004ApJ...615..652N,65
+65,66,r (KPNO)             , 12.66                         ,           ...,mag                  ,479000000000000.0,0.0269,    ...      ,Jy                   ,"Broad-band
+",Host mag; AGN contamination removed     ,2011ApJ...739...57K,66
+66,67,r (SDSS Model) AB    , 12.872                        ,+/- 0.002  ,asinh mag            ,477000000000000.0,0.0258,+/- 4.75E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,67
+67,68,r (SDSS CModel) AB   , 12.872                        ,           ...,asinh mag            ,477000000000000.0,0.0258,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,68
+68,69,r (SDSS PSF) AB      , 15.495                        ,+/- 0.018  ,asinh mag            ,477000000000000.0,0.0023,+/- 3.82E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,69
+69,70,F_pg                 , 13.                           ,+/- 0.3    , mag                 ,468000000000000.0,0.0194,+/- 5.37E-03 ,Jy                   ,"Broad-band
+",Isophotal mag                           ,2007ApJS..170...33P,70
+70,71,R (Johnson)          , 22.56                         ,+/- 0.53   ,milliJy              ,428000000000000.0,0.0226,+/- 5.30E-04 ,Jy                   ,"Broad-band
+","29.3"" aperture                          ",1983ApJS...52..341M,71
+71,72,R (Johnson)          , 12.96                         ,+/- 0.02   ,mag                  ,428000000000000.0,0.0182,+/- 3.38E-04 ,Jy                   ,"Broad-band
+","25"" aperture                            ",1979SvAL....5..305D,72
+72,73,i (SDSS CModel) AB   , 12.481                        ,           ...,asinh mag            ,389000000000000.0,0.037,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,73
+73,74,i (SDSS PSF) AB      , 15.321                        ,+/- 0.016  ,asinh mag            ,389000000000000.0,0.0027,+/- 3.98E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,74
+74,75,i (SDSS Model) AB    , 12.476                        ,+/- 0.002  ,asinh mag            ,389000000000000.0,0.0371,+/- 6.84E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,75
+75,76,i (KPNO)             , 12.200                        ,           ...,mag                  ,388000000000000.0,0.0331,    ...      ,Jy                   ,"Broad-band
+",Host mag; AGN contamination removed     ,2011ApJ...739...57K,76
+76,77,I (MAGNUM)           , 10.26                         ,+/- 0.09   ,milliJy              ,362000000000000.0,0.0103,+/- 9.00E-05 ,Jy                   ,"Broad-band
+","8.3"" aperture                           ",2010ApJ...711..461S,77
+77,78,I (Johnson)          , 24.58                         ,+/- 1.02   ,milliJy              ,333000000000000.0,0.0246,+/- 1.02E-03 ,Jy                   ,"Broad-band
+","29.3"" aperture                          ",1983ApJS...52..341M,78
+78,79,z (SDSS CModel) AB   , 12.313                        ,           ...,asinh mag            ,325000000000000.0,0.0424,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,79
+79,80,z (SDSS Model) AB    , 12.199                        ,+/- 0.002  ,asinh mag            ,325000000000000.0,0.047,+/- 8.66E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,80
+80,81,z (SDSS PSF) AB      , 14.949                        ,+/- 0.021  ,asinh mag            ,325000000000000.0,0.00374,+/- 7.23E-05 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,81
+81,82,z (KPNO)             , 12.130                        ,           ...,mag                  ,319000000000000.0,0.0308,    ...      ,Jy                   ,"Broad-band
+",Host mag; AGN contamination removed     ,2011ApJ...739...57K,82
+82,83,J (2MASS/CTIO)       , 11.981                        ,+/- 0.004  ,mag                  ,243000000000000.0,0.0257,+/- 9.47E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,83
+83,84,J (2MASS/CTIO)       , 12.418                        ,+/- 0.065  ,mag                  ,243000000000000.0,0.0172,+/- 1.03E-03 ,Jy                   ,"Broad-band
+",Profile-fit; Poor quality               ,2006AJ....131.1163S,84
+84,85,J                    , 10.925                        ,+/- 0.016  ,mag                  ,240000000000000.0,0.0679,+/- 1.01E-03 ,Jy                   ,"Broad-band
+",  54.6 x   48.0 arcsec integration area.,20032MASX.C.......:,85
+85,86,J                    , 10.761                        ,+/- 0.020  ,mag                  ,240000000000000.0,0.079,+/- 1.47E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,86
+86,87,J_14arcsec (2MASS)   , 11.620                        ,+/- 0.005  ,mag                  ,240000000000000.0,0.0358,+/- 1.65E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,87
+87,88,Pa{beta} (IRTF)      , 1.46E-14                      ,           ...,erg/s/cm^2^          ,234000000000000.0,1460000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2010ApJ...724..386K,88
+88,89,H                    , 10.176                        ,+/- 0.021  ,mag                  ,182000000000000.0,0.0871,+/- 1.70E-03 ,Jy                   ,"Broad-band
+",  54.6 x   48.0 arcsec integration area.,20032MASX.C.......:,89
+89,90,H                    , 10.042                        ,+/- 0.022  ,mag                  ,182000000000000.0,0.0985,+/- 2.02E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,90
+90,91,H_14arcsec (2MASS)   , 10.812                        ,+/- 0.005  ,mag                  ,182000000000000.0,0.0485,+/- 2.24E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,91
+91,92,H (2MASS/CTIO)       , 11.649                        ,+/- 0.083  ,mag                  ,180000000000000.0,0.0224,+/- 1.71E-03 ,Jy                   ,"Broad-band
+",Profile-fit; Poor quality               ,2006AJ....131.1163S,92
+92,93,H (2MASS/CTIO)       , 11.131                        ,+/- 0.013  ,mag                  ,180000000000000.0,0.0361,+/- 4.33E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,93
+93,94,Pa{alpha} (IRTF)     , 2.82E-14                      ,           ...,erg/s/cm^2^          ,160000000000000.0,2820000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2010ApJ...724..386K,94
+94,95,K_s (2MASS/CTIO)     , 10.579                        ,+/- 0.038  ,mag                  ,139000000000000.0,0.0391,+/- 1.37E-03 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,95
+95,96,K_s (2MASS/CTIO)     , 10.402                        ,+/- 0.022  ,mag                  ,139000000000000.0,0.046,+/- 9.33E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,96
+96,97,K_s                  , 9.666                         ,+/- 0.025  ,mag                  ,138000000000000.0,0.0907,+/- 2.11E-03 ,Jy                   ,"Broad-band
+",  54.6 x   48.0 arcsec integration area.,20032MASX.C.......:,97
+97,98,K_s_14arcsec (2MASS) , 10.174                        ,+/- 0.005  ,mag                  ,138000000000000.0,0.0568,+/- 2.62E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,98
+98,99,K_s                  , 9.540                         ,+/- 0.024  ,mag                  ,138000000000000.0,0.102,+/- 2.28E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,99
+99,100,6 microns (Spitzer)  , 30.2                          ,           ...,milliJy              ,50000000000000.0,0.0302,    ...      ,Jy                   ,"Broad-band
+",AGN flux                                ,2010MNRAS.403.1246S,100
+100,101,6 microns (ISO)      , 0.1132                        ,           ...,Jy                   ,50000000000000.0,0.113,    ...      ,Jy                   ,"Broad-band
+",                                        ,2004A&A...418..465L,101
+101,102,PAH 6.2 microns IRS  ,...                            ,<0.23E-20   ,W/cm^2^              ,48400000000000.0,,<   2.30E+09 ,Jy-Hz                ,"Line
+",                                        ,2010MNRAS.403.1246S,102
+102,103,PAH 6.2 (Spitzer)    ,...                            ,<0.13E-20   ,W/cm^2^              ,48400000000000.0,,<   1.30E+09 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...730...19S,103
+103,104,LW2 (ISOCAM)         , 146                           ,+/- 23     , milliJy             ,44400000000000.0,0.146,+/- 2.30E-02 ,Jy                   ,"Broad-band
+",                                        ,2007AJ....134.2006R,104
+104,105,7.9 microns Spitzer  , 40.0                          ,           ...,milliJy              ,37900000000000.0,0.04,    ...      ,Jy                   ,"Broad-band
+",                                        ,2011ApJ...730...19S,105
+105,106,LW7 (ISOCAM)         , 303                           ,+/- 25     , milliJy             ,31200000000000.0,0.303,+/- 2.50E-02 ,Jy                   ,"Broad-band
+",                                        ,2007AJ....134.2006R,106
+106,107,SIV (VLT)            , 79.0                          ,+/- 1.3    ,milliJy              ,28600000000000.0,0.079,+/- 1.30E-03 ,Jy                   ,"Broad-band
+",Nuclear flux                            ,2014MNRAS.439.1648A,107
+107,108,SIV (ESO)            , 75.9                          ,+/- 20.9   , milliJy             ,28600000000000.0,0.0759,+/- 2.09E-02 ,Jy                   ,"Broad-band
+",PSF fitting                             ,2008A&A...479..389H,108
+108,109,[S IV] 10.51 (IRS)   ,...                            ,<16.58E-18  ,W/m^2^               ,28500000000000.0,,<   1.66E+09 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...740...94D,109
+109,110,N                    , 146.00                        ,+/- 5.00   ,milliJy              ,28300000000000.0,0.146,+/- 5.00E-03 ,Jy                   ,"Broad-band
+","5.3"" aperture                           ",1995ApJ...446..561M,110
+110,111,11.25 microns (VLT)  , 90                            ,+/- 10  %  , milliJy             ,26600000000000.0,0.09,+/- 9.00E-03 ,Jy                   ,"Broad-band
+",                                        ,2007A&A...473..369H,111
+111,112,PAH2 (ESO)           , 75.0                          ,+/- 2.1    , milliJy             ,26600000000000.0,0.075,+/- 2.10E-03 ,Jy                   ,"Broad-band
+",PSF fitting                             ,2008A&A...479..389H,112
+112,113,PAH2 (VLT)           , 86.3                          ,+/- 6.1    ,milliJy              ,26600000000000.0,0.0863,+/- 6.10E-03 ,Jy                   ,"Broad-band
+",Nuclear flux                            ,2014MNRAS.439.1648A,113
+113,114,PAH 11.3 (Spitzer)   , 0.30E-20                      ,           ...,W/cm^2^              ,26500000000000.0,3000000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...730...19S,114
+114,115,12 microns (IRAS)    , 1.917E-01                     ,+/- 21  %  ,Jy                   ,25000000000000.0,0.192,+/- 4.03E-02 ,Jy                   ,"Broad-band
+",IRAS quality flag = 2                   ,1990IRASF.C...0000M,115
+115,116,Ne II (ESO)          , 106.3                         ,+/- 13.3   , milliJy             ,23400000000000.0,0.106,+/- 1.33E-02 ,Jy                   ,"Broad-band
+",PSF fitting                             ,2008A&A...479..389H,116
+116,117,[Ne II] 12.81 (IRS)  , 32.81E-18                     ,+/- 2.12E-18 ,W/m^2^               ,23400000000000.0,3280000000.0,+/- 2.12E+08 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...740...94D,117
+117,118,NEII (VLT)           , 109.2                         ,+/- 8.5    ,milliJy              ,23400000000000.0,0.109,+/- 8.50E-03 ,Jy                   ,"Broad-band
+",Nuclear flux                            ,2014MNRAS.439.1648A,118
+118,119,[Ne V] 14.32 (IRS)   , 9.57E-18                      ,+/- 1.64E-18 ,W/m^2^               ,20900000000000.0,957000000.0,+/- 1.64E+08 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...740...94D,119
+119,120,[Ne V] 14.32         , 1.01E-21                      ,           ...,W/cm^2^              ,20900000000000.0,1010000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2011ApJS..195...17W,120
+120,121,[Ne V] 14.32 Spitzer , 1.01E-21                      ,+/- 0.16E-21 , W/cm^2^             ,20900000000000.0,1010000000.0,+/- 1.60E+08 ,Jy-Hz                ,"Line
+",                                        ,2008ApJ...674L...9D,121
+121,122,[Ne III] 15.56 (IRS) , 21.14E-18                     ,+/- 2.54E-18 ,W/m^2^               ,19300000000000.0,2110000000.0,+/- 2.54E+08 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...740...94D,122
+122,123,24 microns (MIPS)    , 2.2791E+05                    ,+/- 1.7531E+02 ,microJy              ,12700000000000.0,0.228,+/- 1.75E-04 ,Jy                   ,"Broad-band
+",PSF fit                                 ,2013SSTSLC4.2....0C,123
+123,124,24 microns (MIPS)    , 2.4812E+05                    ,+/- 1.7723E+02 ,microJy              ,12700000000000.0,0.248,+/- 1.77E-04 ,Jy                   ,"Broad-band
+",PSF fit                                 ,2013SSTSLC4.2....0C,124
+124,125,24 microns (MIPS)    , 2.4113E+05                    ,+/- 1.1994E+02 ,microJy              ,12700000000000.0,0.24100000000000002,+/- 1.20E-04 ,Jy                   ,"Broad-band
+","14.7"" aperture                          ",2013SSTSLC4.2....0C,125
+125,126,24 microns (MIPS)    , 2.2117E+05                    ,+/- 1.2070E+02 ,microJy              ,12700000000000.0,0.221,+/- 1.21E-04 ,Jy                   ,"Broad-band
+","14.7"" aperture                          ",2013SSTSLC4.2....0C,126
+126,127,25 microns (Spitzer) , 0.265                         ,           ...,Jy                   ,12000000000000.0,0.265,    ...      ,Jy                   ,"Broad-band
+",                                        ,2011ApJ...730...19S,127
+127,128,25 microns (IRAS)    , 2.214E-01                     ,+/- 20  %  ,Jy                   ,12000000000000.0,0.221,+/- 3.83E-02 ,Jy                   ,"Broad-band
+",IRAS quality flag = 2                   ,1990IRASF.C...0000M,128
+128,129,[O IV] 25.89         , 3.39E-21                      ,           ...,W/cm^2^              ,11600000000000.0,3390000000.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2011ApJS..195...17W,129
+129,130,[O IV] 25.89 (IRS)   , 31.04E-18                     ,+/- 3.06E-18 ,W/m^2^               ,11600000000000.0,3100000000.0,+/- 3.06E+08 ,Jy-Hz                ,"Line
+",                                        ,2011ApJ...740...94D,130
+130,131,[O IV] 25.89 Spitzer , 3.39E-21                      ,+/- 0.17E-21 , W/cm^2^             ,11600000000000.0,3390000000.0,+/- 1.70E+08 ,Jy-Hz                ,"Line
+",                                        ,2008ApJ...674L...9D,131
+131,132,60 microns (IRAS)    , 4.893E-01                     ,+/- 12  %  ,Jy                   ,5000000000000.0,0.489,+/- 5.87E-02 ,Jy                   ,"Broad-band
+",IRAS quality flag = 3                   ,1990IRASF.C...0000M,132
+132,133,100 microns (IRAS)   , 1.457E+00                     ,+/- 11  %  ,Jy                   ,3000000000000.0,1.46,+/- 1.60E-01 ,Jy                   ,"Broad-band
+",IRAS quality flag = 2                   ,1990IRASF.C...0000M,133
+133,134,11 cm (NRAO)         ,...                            ,<200        ,milliJy              ,2700000000000.0,,<   2.00E-01 ,Jy                   ,"Broad-band
+",                                        ,1980AJ.....85.1462K,134
+134,135,20.0 GHz (OVRO)      , 3.6                           ,+/- 0.6    ,milliJy              ,20000000000.0,0.0036,+/- 6.00E-04 ,Jy                   ,"Broad-band
+",                                        ,1987ApJ...313..651E,135
+135,136,10.63 GHz (ARO)      ,...                            ,<13         ,milliJy              ,10600000000.0,,<   1.30E-02 ,Jy                   ,"Broad-band
+",                                        ,1995ApJS...98..369B,136
+136,137,4.89 GHz (VLA)       , 7.6                           ,+/- 0.4    ,milliJy              ,4890000000.0,0.0076,+/- 4.00E-04 ,Jy                   ,"Broad-band
+",Low-resolution data                     ,1987ApJ...313..651E,137
+137,138,4.89 GHz (VLA)       , 5.23                          ,+/- 0.29   ,milliJy              ,4890000000.0,0.005229999999999999,+/- 2.90E-04 ,Jy                   ,"Broad-band
+",High-resolution data                    ,1987ApJ...313..651E,138
+138,139,4.755 GHz (GBT)      ,...                            ,<5          ,milliJy              ,4760000000.0,,<   5.00E-03 ,Jy                   ,"Broad-band
+",                                        ,1995ApJS...98..369B,139
+139,140,6 cm (NRAO)          ,...                            ,<30         ,milliJy              ,4750000000.0,,<   3.00E-02 ,Jy                   ,"Broad-band
+",                                        ,1980AJ.....85.1462K,140
+140,141,1.46 GHz (VLA)       , 11.2                          ,+/- 1.4    ,milliJy              ,1460000000.0,0.0112,+/- 1.40E-03 ,Jy                   ,"Broad-band
+",                                        ,1987ApJ...313..651E,141
+141,142,HI (21 cm line)      , 15.62                         ,+/- 0.10   ,m_21 mag             ,1420000000.0,24700.0,+/- 2.38E+03 ,Jy-Hz                ,"Line
+",m_21 equiv. to S(HI) = 2.466E-22 W m^-2 ,1991RC3.9.C...0000d,142
+142,143,HI line (Effelsberg) , 1.97                          ,+/- 0.18   ,Jy km/s              ,1420000000.0,9090.0,+/- 8.31E+02 ,Jy-Hz                ,"Line
+",                                        ,2009A&A...507..757K,143
+143,144,HI (21 cm line)      , 5.20                          ,+/- 1.40   ,Jy km s^-1^          ,1420000000.0,23900.0,+/- 6.44E+03 ,Jy-Hz                ,"Line
+",                                        ,1989H&RHI.C...0000H,144
+144,145,1.4GHz               , 16.8                          ,+/- 0.7    ,milliJy              ,1400000000.0,0.0168,+/- 7.00E-04 ,Jy                   ,"Broad-band
+",                                        ,1998AJ....115.1693C,145
+145,146,1.4 GHz (VLA)        , 16.2                          ,           ...,milliJy              ,1400000000.0,0.0162,    ...      ,Jy                   ,"Broad-band
+",                                        ,2002AJ....124..675C,146
+146,147,1.4 GHz (VLA)        , 9.95                          ,           ..., milliJy             ,1400000000.0,0.00995,    ...      ,Jy                   ,"Broad-band
+",                                        ,2009AJ....137...42R,147

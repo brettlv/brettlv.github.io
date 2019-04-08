@@ -1,0 +1,61 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,B (m_B)              , 15.15                         ,+/- 0.18   ,mag                  ,681000000000000.0,0.00371,+/- 6.69E-04 ,Jy                   ,"Broad-band
+",                                        ,1991RC3.9.C...0000d,1
+1,2,B (m_B^0)            , 14.47                         ,           ...,mag                  ,681000000000000.0,0.006940000000000001,    ...      ,Jy                   ,"Broad-band
+",                                        ,1991RC3.9.C...0000d,2
+2,3,m_p                  , 15.4                          ,+/- 0.4    ,mag                  ,681000000000000.0,0.00295,+/- 1.31E-03 ,Jy                   ,"Broad-band
+",                                        ,1965CGCG5.C...0000Z,3
+3,4,J_pg                 , 15.5                          ,+/- 0.3    , mag                 ,641000000000000.0,0.00249,+/- 6.89E-04 ,Jy                   ,"Broad-band
+",Isophotal mag                           ,2007ApJS..170...33P,4
+4,5,F_pg                 , 13.9                          ,+/- 0.3    , mag                 ,468000000000000.0,0.00848,+/- 2.34E-03 ,Jy                   ,"Broad-band
+",Isophotal mag                           ,2007ApJS..170...33P,5
+5,6,J (2MASS/CTIO)       , 12.92                         ,+/- 0.009  ,mag                  ,243000000000000.0,0.0108,+/- 8.97E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,6
+6,7,J (2MASS/CTIO)       , 13.397                        ,+/- 0.078  ,mag                  ,243000000000000.0,0.00698,+/- 5.01E-04 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,7
+7,8,J                    , 11.611                        ,+/- 0.037  ,mag                  ,240000000000000.0,0.0361,+/- 1.25E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,8
+8,9,J_14arcsec (2MASS)   , 12.492                        ,+/- 0.016  ,mag                  ,240000000000000.0,0.016,+/- 2.38E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,9
+9,10,J                    , 11.855                        ,+/- 0.037  ,mag                  ,240000000000000.0,0.0288,+/- 1.00E-03 ,Jy                   ,"Broad-band
+",  37.0 x   32.6 arcsec integration area.,20032MASX.C.......:,10
+10,11,H                    , 10.919                        ,+/- 0.042  ,mag                  ,182000000000000.0,0.0439,+/- 1.73E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,11
+11,12,H_14arcsec (2MASS)   , 11.692                        ,+/- 0.016  ,mag                  ,182000000000000.0,0.0216,+/- 3.20E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,12
+12,13,H                    , 11.097                        ,+/- 0.044  ,mag                  ,182000000000000.0,0.0373,+/- 1.54E-03 ,Jy                   ,"Broad-band
+",  37.0 x   32.6 arcsec integration area.,20032MASX.C.......:,13
+13,14,H (2MASS/CTIO)       , 12.115                        ,+/- 0.012  ,mag                  ,180000000000000.0,0.0146,+/- 1.61E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,14
+14,15,H (2MASS/CTIO)       , 12.628                        ,+/- 0.096  ,mag                  ,180000000000000.0,0.0091,+/- 8.05E-04 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,15
+15,16,K_s (2MASS/CTIO)     , 11.76                         ,+/- 0.011  ,mag                  ,139000000000000.0,0.0132,+/- 1.34E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,16
+16,17,K_s (2MASS/CTIO)     , 12.224                        ,+/- 0.067  ,mag                  ,139000000000000.0,0.0086,+/- 5.31E-04 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,17
+17,18,K_s                  , 10.789                        ,+/- 0.065  ,mag                  ,138000000000000.0,0.0322,+/- 1.99E-03 ,Jy                   ,"Broad-band
+",  37.0 x   32.6 arcsec integration area.,20032MASX.C.......:,18
+18,19,K_s                  , 10.636                        ,+/- 0.057  ,mag                  ,138000000000000.0,0.0371,+/- 2.00E-03 ,Jy                   ,"Broad-band
+",                                        ,20032MASX.C.......:,19
+19,20,K_s_14arcsec (2MASS) , 11.343                        ,+/- 0.021  ,mag                  ,138000000000000.0,0.0194,+/- 3.78E-04 ,Jy                   ,"Broad-band
+",14.0 x 14.0 arcsec aperture.            ,20032MASX.C.......:,20
+20,21,12 microns (IRAS)    , 0.116                         ,+/- 25  %  ,Jy                   ,25000000000000.0,0.11599999999999999,+/- 2.90E-02 ,Jy                   ,"Broad-band
+",                                        ,1990IRASZ.C...0000M,21
+21,22,25 microns (IRAS)    , 0.138                         ,+/- 25  %  ,Jy                   ,12000000000000.0,0.138,+/- 3.45E-02 ,Jy                   ,"Broad-band
+",IRAS quality flag = 2                   ,1990IRASZ.C...0000M,22
+22,23,60 microns (IRAS)    , 1.182                         ,+/- 7   %  ,Jy                   ,5000000000000.0,1.18,+/- 8.27E-02 ,Jy                   ,"Broad-band
+",IRAS quality flag = 2                   ,1990IRASZ.C...0000M,23
+23,24,100 microns (IRAS)   , 2.275                         ,+/- 27  %  ,Jy                   ,3000000000000.0,2.27,+/- 6.14E-01 ,Jy                   ,"Broad-band
+",                                        ,1990IRASZ.C...0000M,24
+24,25,4.755 GHz (GBT)      ,...                            ,<4          ,milliJy              ,4760000000.0,,<   4.00E-03 ,Jy                   ,"Broad-band
+",                                        ,1995ApJS...98..369B,25
+25,26,HI 21 cm line        , 3.02                          ,           ...,Jy km s^-1^          ,1420000000.0,14100.0,    ...      ,Jy-Hz                ,"Line
+",Corrected line flux                     ,2005ApJS..160..149S,26
+26,27,HI 21 cm line        , 2.61                          ,           ...,Jy km s^-1^          ,1420000000.0,12200.0,    ...      ,Jy-Hz                ,"Line
+",                                        ,2005ApJS..160..149S,27
+27,28,HI line (Nancay)     , 5.76                          ,+/- 0.94   ,Jy km/s              ,1420000000.0,26700.0,+/- 4.36E+03 ,Jy-Hz                ,"Line
+",                                        ,2004A&A...416..515D,28
+28,29,HI 21 cm line        , 3.07                          ,+/- 0.33   ,Jy km s^-1^          ,1420000000.0,14300.0,+/- 1.54E+03 ,Jy-Hz                ,"Line
+",Self-absorption corrected line flux     ,2005ApJS..160..149S,29
+29,30,1.4GHz               , 9.5                           ,+/- 1.1    ,milliJy              ,1400000000.0,0.0095,+/- 1.10E-03 ,Jy                   ,"Broad-band
+",                                        ,1998AJ....115.1693C,30

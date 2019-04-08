@@ -1,0 +1,59 @@
+,No.,Observed Passband,Measurement,Uncertainty,Units,Freq (Hz),Measurement.1,Uncertainty.1,Units.1,Mode,Aperture/Qualifiers,Reference Code,No..1
+0,1,FUV (GALEX) AB       ,...                            ,>21.1675    ,mag                  ,1950000000000000.0,,<   1.24E-05 ,Jy                   ,"Broad-band
+",upper limit inside NUV Kron aperture    ,2012GASC..C...0000S,1
+1,2,FUV (GALEX) AB       , 21.2077                       ,+/- 0.401164 ,mag                  ,1950000000000000.0,1.1900000000000001e-05,+/- 4.41E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,2
+2,3,FUV (GALEX) AB       , 19.8127                       ,+/- 0.0524496 ,mag                  ,1950000000000000.0,4.31e-05,+/- 2.08E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GMSC..C...0000S,3
+3,4,FUV (GALEX) AB       , 19.9715                       ,+/- 0.0558253 ,mag                  ,1950000000000000.0,3.73e-05,+/- 1.92E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GMSC..C...0000S,4
+4,5,NUV (GALEX) AB       , 20.6715                       ,+/- 0.221288 ,mag                  ,1290000000000000.0,1.9600000000000002e-05,+/- 3.99E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GASC..C...0000S,5
+5,6,NUV (GALEX) AB       , 21.1675                       ,+/- 0.241005 ,mag                  ,1290000000000000.0,1.24e-05,+/- 2.75E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GASC..C...0000S,6
+6,7,NUV (GALEX) AB       , 19.6189                       ,+/- 0.0311268 ,mag                  ,1290000000000000.0,5.16e-05,+/- 1.48E-06 ,Jy                   ,"Broad-band
+",Kron flux in elliptical aperture        ,2012GMSC..C...0000S,7
+7,8,NUV (GALEX) AB       , 20.0752                       ,+/- 0.0349973 ,mag                  ,1290000000000000.0,3.39e-05,+/- 1.09E-06 ,Jy                   ,"Broad-band
+",Flux in 7.5 arcsec diameter aperture    ,2012GMSC..C...0000S,8
+8,9,u (SDSS Model) AB    , 19.787                        ,+/- 0.049  ,asinh mag            ,836000000000000.0,4.5799999999999995e-05,+/- 2.07E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,9
+9,10,u (SDSS PSF) AB      , 19.970                        ,+/- 0.046  ,asinh mag            ,836000000000000.0,3.87e-05,+/- 1.64E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,10
+10,11,u (SDSS CModel) AB   , 19.955                        ,           ...,asinh mag            ,836000000000000.0,3.929999999999999e-05,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,11
+11,12,g (SDSS Model) AB    , 20.109                        ,+/- 0.026  ,asinh mag            ,617000000000000.0,3.28e-05,+/- 7.87E-07 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,12
+12,13,g (SDSS PSF) AB      , 20.377                        ,+/- 0.030  ,asinh mag            ,617000000000000.0,2.57e-05,+/- 7.09E-07 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,13
+13,14,g (SDSS CModel) AB   , 20.162                        ,           ...,asinh mag            ,617000000000000.0,3.13e-05,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,14
+14,15,r (SDSS Model) AB    , 19.205                        ,+/- 0.016  ,asinh mag            ,477000000000000.0,7.55e-05,+/- 1.11E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,15
+15,16,r (SDSS PSF) AB      , 19.478                        ,+/- 0.019  ,asinh mag            ,477000000000000.0,5.870000000000001e-05,+/- 1.03E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,16
+16,17,r (SDSS CModel) AB   , 19.205                        ,           ...,asinh mag            ,477000000000000.0,7.55e-05,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,17
+17,18,i (SDSS CModel) AB   , 19.011                        ,           ...,asinh mag            ,389000000000000.0,9.03e-05,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,18
+18,19,i (SDSS Model) AB    , 18.962                        ,+/- 0.020  ,asinh mag            ,389000000000000.0,9.449999999999999e-05,+/- 1.74E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,19
+19,20,i (SDSS PSF) AB      , 19.249                        ,+/- 0.023  ,asinh mag            ,389000000000000.0,7.25e-05,+/- 1.54E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,20
+20,21,z (SDSS PSF) AB      , 18.593                        ,+/- 0.037  ,asinh mag            ,325000000000000.0,0.00013000000000000002,+/- 4.44E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,21
+21,22,z (SDSS CModel) AB   , 18.424                        ,           ...,asinh mag            ,325000000000000.0,0.000152,    ...      ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,22
+22,23,z (SDSS Model) AB    , 18.327                        ,+/- 0.036  ,asinh mag            ,325000000000000.0,0.000166,+/- 5.52E-06 ,Jy                   ,"Broad-band
+",SDSS Qualifiers ,2007SDSS6.C...0000:,23
+23,24,J (2MASS/CTIO)       , 16.992                        ,+/- 0.236  ,mag                  ,243000000000000.0,0.00025499999999999996,+/- 5.53E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,24
+24,25,J (2MASS/CTIO)       , 17.124                        ,+/- 0.202  ,mag                  ,243000000000000.0,0.000225,+/- 4.19E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,25
+25,26,H (2MASS/CTIO)       , 15.606                        ,+/- 0.169  ,mag                  ,180000000000000.0,0.000586,+/- 9.12E-05 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,26
+26,27,H (2MASS/CTIO)       , 16.166                        ,+/- 0.208  ,mag                  ,180000000000000.0,0.00035,+/- 6.70E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,27
+27,28,K_s (2MASS/CTIO)     , 15.419                        ,+/- 0.182  ,mag                  ,139000000000000.0,0.000453,+/- 7.60E-05 ,Jy                   ,"Broad-band
+",Profile-fit                             ,2006AJ....131.1163S,28
+28,29,K_s (2MASS/CTIO)     , 15.286                        ,+/- 0.36   ,mag                  ,139000000000000.0,0.000512,+/- 1.70E-04 ,Jy                   ,"Broad-band
+","4"" aperture                             ",2006AJ....131.1163S,29
