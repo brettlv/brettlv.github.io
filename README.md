@@ -5,12 +5,20 @@
 
 + <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8879-368X" href="https://orcid.org/0000-0001-8879-368X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">brettlv_orcid</a></div>
 
-
++ wixsite Blog [wixsite](https://brettlv.wixsite.com/brettlv/)
 + Read blog [Docs](http://brettlvgithubio.readthedocs.io/en/latest/)
 + HomePage [Github](https://brettlv.github.io/)
 + Mygit [Repro](https://github.com/brettlv/brettlv.github.io/)
 + Jupyter [Viewer](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/)
 + Sphinx Site [Website](/build/index.html)
+
+
+
+
+
+
+### Some useful instruction for Markdown and Github
+
 
 You can use the [editor on GitHub](https://github.com/brettlv/brettlv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
