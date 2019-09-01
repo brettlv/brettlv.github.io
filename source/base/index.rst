@@ -13,6 +13,7 @@
 .. toctree::
     :includehidden:
     :maxdepth: 2
+    :caption: Contents:
     :numbered: 2
 
     01_linux.rst
