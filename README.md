@@ -11,7 +11,7 @@
 + My_Git [Repro](https://github.com/brettlv/brettlv.github.io/)
 + Jupyter_code [Viewer](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/)
 + Sphinx_Site [Website](/build/index.html) 
-+ QQ[Email](<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=372tuqurs6mfubCnsr62s-G8sLI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>)
++ QQEmail <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=372tuqurs6mfubCnsr62s-G8sLI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
 
 
