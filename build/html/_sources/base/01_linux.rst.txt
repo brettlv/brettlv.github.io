@@ -3,10 +3,8 @@ Linux
 
 linux_ 简单命令:
 .. _linux: https://www.tecmint.com/linux-commands-cheat-sheet/
+
 ---------------
-
-
-
 ::
 
 
