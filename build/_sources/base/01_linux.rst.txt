@@ -1,7 +1,8 @@
 Linux 
 ====================
 
-linux 简单命令
+.. _linux简单命令: https://www.tecmint.com/linux-commands-cheat-sheet/
+==
 
 ::
 
@@ -21,7 +22,7 @@ sh test.sh #run file
 
 vim test.py #edit file
 
-.. _vim: ./vim/vim.html
+.. _vim: https://www.runoob.com/linux/linux-vim.html
 
 
 
