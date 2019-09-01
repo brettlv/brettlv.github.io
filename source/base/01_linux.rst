@@ -23,9 +23,9 @@ sh test.sh #run file
 
 vim_ test.py #edit file
 
-::
+rst_ #example
 
 .. _vim: https://www.runoob.com/linux/linux-vim.html
 
-
+.. _rst: https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
 
