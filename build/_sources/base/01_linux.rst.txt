@@ -1,8 +1,9 @@
 Linux 
 ====================
 
-.. _linux简单命令: https://www.tecmint.com/linux-commands-cheat-sheet/
-==
+linux_ 简单命令:
+
+.. _linux: https://www.tecmint.com/linux-commands-cheat-sheet/
 
 ::
 
@@ -20,7 +21,9 @@ rm (-rf) #delete file/dir
 
 sh test.sh #run file
 
-_vim test.py #edit file
+vim_ test.py #edit file
+
+::
 
 .. _vim: https://www.runoob.com/linux/linux-vim.html
 

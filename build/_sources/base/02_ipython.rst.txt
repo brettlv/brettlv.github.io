@@ -1,6 +1,7 @@
 python 
 =========================
 
+::
 
 import numpy as np
 
@@ -12,6 +13,6 @@ import plotly_express as px
 
 %matplotlib inline
 
-plt_plot refer to _plot
+plt.plot refer to plot_
 
 .. _plot: https://matplotlib.org/users/pyplot_tutorial.html
