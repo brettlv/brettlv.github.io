@@ -1,0 +1,68 @@
+#include <stdlib.h>
+#include <stdio.h> 
+#include <time.h> 
+
+int main(){
+
+
+    srand((unsigned) time(NULL)); //随机数种子 
+    int n;
+    double x,y,distance; 
+    int count=0;
+    n=1000000;
+    
+    for (int i=1; i<=n; i++)
+    {
+        x = rand()/(double)(RAND_MAX); //x产生0-1的随机数
+        y = rand()/(double)(RAND_MAX); //y产生0-1的随机数
+
+        distance=x*x+y*y;
+        if(distance<=1.0){
+            count++;
+        }
+    }
+    printf("PI=%lf",(2.0*2.0*count)/n);
+    return 0;
+}
+
+
+
+
+----------------------------------------
+
+
+#include <stdlib.h>
+#include <stdio.h> 
+#include <time.h> 
+
+
+int main(){
+
+
+    srand((unsigned) time(NULL)); //随机数种子 
+    int n;
+    double x,y,distance; 
+    int count=0;
+    printf("please input the number of times:");
+    scanf("%d",&n);
+    for (int i=1; i<=n; i++)
+    {
+        x = rand()/(double)(RAND_MAX); //x产生0-1的随机数
+        y = rand()/(double)(RAND_MAX); //y产生0-1的随机数
+
+        distance=(x-1)*(x-1)+(y-1)*(y-1);
+        if(distance<=1.0){
+            count++;
+        }
+    }
+    printf("PI=%lf",(2.0*2*count)/n);
+    return 0;
+}
+
+
+
+--------------------- 
+作者：清风明月mx 
+来源：CSDN 
+原文：https://blog.csdn.net/yang10560/article/details/80658355 
+版权声明：本文为博主原创文章，转载请附上博文链接！
