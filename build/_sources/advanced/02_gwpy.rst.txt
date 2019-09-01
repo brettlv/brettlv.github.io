@@ -1,8 +1,8 @@
 gwpy
 ===========
 
-
-pip install gwpy
-
+gwpy
 ---------------
 ::
+
+pip install gwpy

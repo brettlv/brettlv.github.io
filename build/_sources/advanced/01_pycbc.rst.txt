@@ -1,7 +1,8 @@
 pycbc
 ===============
 
-pip install lalsuite pycbc
-
+pycbc
 ---------------
 ::
+
+pip install lalsuite pycbc
