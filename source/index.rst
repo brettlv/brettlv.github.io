@@ -10,8 +10,6 @@ Welcome to Brettlv's Blog
 
 .. _我的Github主页: https://brettlv.github.io/  欢迎访问～
 
-::
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
