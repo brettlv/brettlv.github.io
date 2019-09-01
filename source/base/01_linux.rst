@@ -1,7 +1,7 @@
 Linux 
 ====================
 
-Linux
+Linux_base
 ---------------
 
 linux_ 简单命令:
@@ -30,4 +30,17 @@ rst_ #example
 .. _vim: https://www.runoob.com/linux/linux-vim.html
 
 .. _rst: https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
+
+Linux_advance
+---------------
+
+::
+
+chmod 777
+
+chown
+
+
+
+
 
