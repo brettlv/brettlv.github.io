@@ -20,7 +20,7 @@ rm (-rf) #delete file/dir
 
 sh test.sh #run file
 
-vim test.py #edit file
+_vim test.py #edit file
 
 .. _vim: https://www.runoob.com/linux/linux-vim.html
 
