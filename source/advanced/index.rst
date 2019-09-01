@@ -11,7 +11,6 @@ pycbc,gwpy,astropy,mcmx;
 
 .. toctree::
     :includehidden:
-    :caption: Contents:
     :maxdepth: 2
     :numbered: 2
 
