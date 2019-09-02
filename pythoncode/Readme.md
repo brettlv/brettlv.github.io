@@ -16,10 +16,8 @@
 
 
 
-
-
 # Radio
-[radio data casa note](https://brettlv.github.io/pythoncode/radiolearnnote)
+[radio data casa note](https://brettlv.github.io/radiolearnnote)
 
 
 # [Changing look AGN csv dir git](https://brettlv.github.io/pythoncode/changinglookAGN)
