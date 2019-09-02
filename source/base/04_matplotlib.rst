@@ -12,13 +12,17 @@ plt.plot_
 ::
 
 import matplotlib.pyplot as plt
+
 import plotly
+
 import plotly_express as px
+
 %matplotlib inline
 
-
 plt.grid()
+
 plt.legend()
+
 plt.show()
 
 

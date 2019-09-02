@@ -8,7 +8,8 @@ Welcome to Brettlv's Blog
 
 `我的Github主页`_
 
-.. _我的Github主页: https://brettlv.github.io/  欢迎访问～
+.. _我的Github主页: https://brettlv.github.io/  
+欢迎访问～
 
 .. toctree::
    :maxdepth: 2
