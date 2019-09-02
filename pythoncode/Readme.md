@@ -20,5 +20,5 @@
 ### [plotly_express](https://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/blob/master/pythoncode/plotly_express_.ipynb)
 
 
-
-# [Changing look AGN](https://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/changinglookAGN/)
+# [Changing look AGN csv dir git](https://github.com/brettlv/brettlv.github.io/tree/master/pythoncode/changinglookAGN)
+## [Changing look AGN nb](https://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/changinglookAGN/)
