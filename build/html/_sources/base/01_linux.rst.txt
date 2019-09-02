@@ -23,13 +23,7 @@ rm (-rf) #delete file/dir
 
 sh test.sh #run file
 
-vim_ test.py #edit file
 
-rst_ #example
-
-.. _vim: https://www.runoob.com/linux/linux-vim.html
-
-.. _rst: https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
 
 Linux_advance
 ---------------
@@ -38,8 +32,19 @@ Linux_advance
 
 chmod 777
 
-chown
+chown brettlv
 
+vim_ test.py #edit file
+
+rst_ #example
+
+markdown_
+
+.. _vim: https://www.runoob.com/linux/linux-vim.html
+
+.. _rst: https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
+
+.. _markdown: https://guides.github.com/features/mastering-markdown/
 
 
 
