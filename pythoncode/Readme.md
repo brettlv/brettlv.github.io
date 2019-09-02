@@ -22,3 +22,6 @@
 
 # [Changing look AGN csv dir git](https://github.com/brettlv/brettlv.github.io/tree/master/pythoncode/changinglookAGN)
 ## [Changing look AGN nb](https://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/changinglookAGN/)
+
+
+# [radio data casa note](https://github.com/brettlv/brettlv.github.io/tree/master/pythoncode/radiolearnnote)
