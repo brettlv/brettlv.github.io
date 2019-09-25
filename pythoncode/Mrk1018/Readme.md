@@ -5,8 +5,14 @@
 ### vla
 
 
-## Pptical
+## Optical
 ### uvot
+
+### Halpha
+### Hbeta
+
+### Midinfrared
+
 
 ## X-ray
 [X-ray tabbed plot](./Mrk1018-tabbed.html)
