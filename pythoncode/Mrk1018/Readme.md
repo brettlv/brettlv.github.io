@@ -1,8 +1,12 @@
 # Mrk1018 data summary
+- [Multi-LC-bokeh-html](./Mrk1018-multi-LC.html)
+- [Xray-f-g-time-bokeh-html](./Mrk1018-f-g.html)
 
 
 ## Radio
 ### vla
+-[radio-lc-html](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.html)
+-[radio-lc-fig](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.png)
 
 
 ## Optical
@@ -15,9 +19,10 @@
 
 
 ## X-ray
-- [X-ray tabbed plot](./Mrk1018-tabbed.html)
-- [X-ray multi-LC](./Mrk1018-multi-LC.html)
-- [X-ray](./Mrk1018-xray.html)
+- [X-ray-bokeh-html](./Mrk1018-xray.html)
+- [X-ray-px-g-eddrate-html]()
+
+
 
 ### XMM
 ### Nustar
