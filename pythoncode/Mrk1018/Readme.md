@@ -8,7 +8,7 @@
 
 ## Radio
 ### vla
-- [radio-lc-html](https://brettlv.github.io/pythoncode/Mrk1018/pic/px-radio-date-lc.html)
+- [radio-lc-html](https://brettlv.github.io/pythoncode/Mrk1018/pic/px-radio-lc.html)
 - [radio-lc-fig](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.png)
 
 
