@@ -5,8 +5,8 @@
 
 ## Radio
 ### vla
--[radio-lc-html](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.html)
--[radio-lc-fig](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.png)
+- [radio-lc-html](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.html)
+- [radio-lc-fig](https://brettlv.github.io/pythoncode/Mrk1018/pic/radio-date-lc.png)
 
 
 ## Optical
