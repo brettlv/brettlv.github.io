@@ -2,8 +2,9 @@
 # [All Pic](./pic)
 
 - [Multi-LC-bokeh-html](./Mrk1018-multi-LC.html)
-- [Xray-f-g-time-bokeh-html](./Mrk1018-f-g.html)
 - [X-ray-bokeh-html](./Mrk1018-xray.html)
+- [alpha_ox vs edd_rate]()
+
 
 ## Radio
 ### vla
@@ -21,7 +22,6 @@
 
 
 ## X-ray
-
 - [X-ray-px-g-eddrate-html](./pic/px-xrayappendgood-g-eddrate.html)
 - [X-ray-px-g-f-html](./pic/px-xrayappendgood-g-f.html)
 - [X-ray-px-g-t-html](./pic/px-xrayappendgood-g-t.html)
