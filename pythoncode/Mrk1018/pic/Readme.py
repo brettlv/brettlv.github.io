@@ -30,7 +30,7 @@ def main(argv):
     dirs,dirname_png,dirname_html,dirname_ipynb=get_file_list(pwdpath)
     with open('Readme.md','w+') as f:
         f.write(pwdpath.split('/')[-2]+':'+pwdpath.split('/')[-1]+'\n')
-        f.write('- [return back](../)')
+        f.write('- [return back](../) \n')
         f.write('\n dirslist: \n')
         for i in dirs:
             f.write('- [%s](./%s)'%(i,i)+'\n')
