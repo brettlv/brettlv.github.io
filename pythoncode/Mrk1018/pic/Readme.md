@@ -1,14 +1,20 @@
 Mrk1018:pic
-- [return back](../) 
+- [return back](../)
  dirslist: 
 
- fileslist: 
+ files_list: 
+
+ ipynb_list: 
+
+ html_list: 
 - [px-radio-lc.html](./px-radio-lc.html)
 - [px-xray-paper-g-eddrate.html](./px-xray-paper-g-eddrate.html)
 - [px-xrayappendgood-g-eddrate.html](./px-xrayappendgood-g-eddrate.html)
 - [px-xrayappendgood-g-f.html](./px-xrayappendgood-g-f.html)
 - [px-xrayappendgood-g-t.html](./px-xrayappendgood-g-t.html)
 - [px-xrayappendgood-lc.html](./px-xrayappendgood-lc.html)
+
+ png_list: 
 - [radio-date-lc.png](./radio-date-lc.png)
 - [uvot-xray-date-lc-all-left.png](./uvot-xray-date-lc-all-left.png)
 - [uvot-xray-date-lc-all-right.png](./uvot-xray-date-lc-all-right.png)

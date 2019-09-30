@@ -1,8 +1,15 @@
 pythoncode:Mrk1018
-- [return back](../) 
+- [return back](../)
+
  dirslist: 
 - [pic](./pic)
 
- fileslist: 
+ files_list: 
+
+ ipynb_list: 
+
+ html_list: 
 - [Mrk1018-multi-LC.html](./Mrk1018-multi-LC.html)
 - [Mrk1018-xray.html](./Mrk1018-xray.html)
+
+ png_list: 
