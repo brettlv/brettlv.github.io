@@ -1,6 +1,8 @@
 Mrk1018:pic
 - [return back](../) 
- filelist: 
+ dirslist: 
+
+ fileslist: 
 - [px-radio-lc.html](./px-radio-lc.html)
 - [px-xray-paper-g-eddrate.html](./px-xray-paper-g-eddrate.html)
 - [px-xrayappendgood-g-eddrate.html](./px-xrayappendgood-g-eddrate.html)
