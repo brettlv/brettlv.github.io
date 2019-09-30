@@ -1,9 +1,21 @@
 # Mrk1018 data summary
 # [All Pic](./pic)
+# [All Pic.md](./Readme_pic.md)
 
 - [Multi-LC-bokeh-html](./Mrk1018-multi-LC.html)
 - [X-ray-bokeh-html](./Mrk1018-xray.html)
 - [alpha_ox vs edd_rate]()
+
+
+## X-ray
+- [X-ray-px-g-eddrate-html](./pic/px-xrayappendgood-g-eddrate.html)
+- [X-ray-px-g-f-html](./pic/px-xrayappendgood-g-f.html)
+- [X-ray-px-g-t-html](./pic/px-xrayappendgood-g-t.html)
+- [X-ray-px-lc-html](./pic/px-xrayappendgood-lc.html)
+### XMM
+### Nustar
+### XRT
+### Chandra
 
 
 ## Radio
@@ -21,14 +33,4 @@
 ### Midinfrared
 
 
-## X-ray
-- [X-ray-px-g-eddrate-html](./pic/px-xrayappendgood-g-eddrate.html)
-- [X-ray-px-g-f-html](./pic/px-xrayappendgood-g-f.html)
-- [X-ray-px-g-t-html](./pic/px-xrayappendgood-g-t.html)
-- [X-ray-px-lc-html](./pic/px-xrayappendgood-lc.html)
 
-
-### XMM
-### Nustar
-### XRT
-### Chandra
