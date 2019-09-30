@@ -2,21 +2,11 @@ brettlv.github.io:pythoncode
 - [return back](../) 
  
  dirslist: 
-- [.idea](./.idea)
-- [.ipynb_checkpoints](./.ipynb_checkpoints)
-- [__pycache__](./__pycache__)
+
 - [arxiv-experiments](./arxiv-experiments)
-- [chandra_csc](./chandra_csc)
 - [changinglookAGN](./changinglookAGN)
-- [FIRST Catalog Search240arcsec_files](./FIRST Catalog Search240arcsec_files)
-- [FIRST Catalog Search60arc_files](./FIRST Catalog Search60arc_files)
-- [FIRST Catalog Search_files](./FIRST Catalog Search_files)
-- [gif_test](./gif_test)
-- [Messier017](./Messier017)
 - [Mrk1018](./Mrk1018)
-- [precession_checkpoints](./precession_checkpoints)
 - [pythonfile](./pythonfile)
-- [UVES](./UVES)
 - [V404_cyg](./V404_cyg)
 
  files_list: 

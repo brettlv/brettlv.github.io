@@ -1,10 +1,9 @@
 Mrk1018:pic
-- [return back](../)
+- [return back](../) 
+
  dirslist: 
 
  files_list: 
-
- ipynb_list: 
 
  html_list: 
 - [px-radio-lc.html](./px-radio-lc.html)
