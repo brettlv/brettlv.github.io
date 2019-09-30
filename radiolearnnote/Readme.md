@@ -1,6 +1,6 @@
 brettlv.github.io:radiolearnnote
-- [return back](../)
-
+- [return back](../) 
+ 
  dirslist: 
 - [.ipynb_checkpoints](./.ipynb_checkpoints)
 
@@ -12,6 +12,12 @@ brettlv.github.io:radiolearnnote
 - [casa VLA high frequency Spectral Line tutorial.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/radiolearnnote/casa VLA high frequency Spectral Line tutorial.ipynb)
 - [P-band continuum imaging data reduction tutorial 3C129.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/radiolearnnote/P-band continuum imaging data reduction tutorial 3C129.ipynb)
 - [P-band spectroscopy tutorial.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/radiolearnnote/P-band spectroscopy tutorial.ipynb)
+
+ pdf_list: 
+- [3c391.pdf](./3c391.pdf)
+- [casa_cookbook4.7.2.pdf](./casa_cookbook4.7.2.pdf)
+- [EVLAWorkshop_RFIv2_1.pdf](./EVLAWorkshop_RFIv2_1.pdf)
+- [Statistics, Data Mining and Machine Learning in Astronomy DMbookTOC1.pdf](./Statistics, Data Mining and Machine Learning in Astronomy DMbookTOC1.pdf)
 
  html_list: 
 - [3c391_ctm_mosaic_10s_ms.html](./3c391_ctm_mosaic_10s_ms.html)

@@ -1,6 +1,6 @@
 brettlv.github.io:pythoncode
-- [return back](../)
-
+- [return back](../) 
+ 
  dirslist: 
 - [.idea](./.idea)
 - [.ipynb_checkpoints](./.ipynb_checkpoints)
@@ -14,7 +14,6 @@ brettlv.github.io:pythoncode
 - [gif_test](./gif_test)
 - [Messier017](./Messier017)
 - [Mrk1018](./Mrk1018)
-- [picture_code](./picture_code)
 - [precession_checkpoints](./precession_checkpoints)
 - [pythonfile](./pythonfile)
 - [UVES](./UVES)
@@ -221,6 +220,21 @@ brettlv.github.io:pythoncode
 - [wget_.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/wget_.ipynb)
 - [Xspec.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/Xspec.ipynb)
 - [youngradio.ipynb](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/youngradio.ipynb)
+
+ pdf_list: 
+- [bb.pdf](./bb.pdf)
+- [bb_1.pdf](./bb_1.pdf)
+- [bb_4.pdf](./bb_4.pdf)
+- [bb_5.pdf](./bb_5.pdf)
+- [best_fit.pdf](./best_fit.pdf)
+- [compare_evolutions.pdf](./compare_evolutions.pdf)
+- [distributionofdistance.pdf](./distributionofdistance.pdf)
+- [gwpytest01.pdf](./gwpytest01.pdf)
+- [phase_resampling.pdf](./phase_resampling.pdf)
+- [Proceedings of Workshop AEW10: Concepts in Information Theory and
+  Communications.pdf](./Proceedings of Workshop AEW10: Concepts in Information Theory and
+  Communications.pdf)
+- [spin_angles.pdf](./spin_angles.pdf)
 
  html_list: 
 - [periodic.html](./periodic.html)
