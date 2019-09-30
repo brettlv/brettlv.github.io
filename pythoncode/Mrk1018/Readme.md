@@ -1,6 +1,7 @@
 # Mrk1018 data summary
 # [All Pic](./pic)
-# [All Pic.md](./Readme_list.md)
+# [list](./Readme_list.md)
+## [return](../)
 
 - [Multi-LC-bokeh-html](./Mrk1018-multi-LC.html)
 - [X-ray-bokeh-html](./Mrk1018-xray.html)

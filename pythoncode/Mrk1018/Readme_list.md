@@ -1,5 +1,5 @@
 pythoncode:Mrk1018
-- [return back](../) 
+- [return](../) 
 
  dirslist: 
 - [pic](./pic)
