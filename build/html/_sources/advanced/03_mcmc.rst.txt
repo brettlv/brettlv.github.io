@@ -15,6 +15,6 @@ bayes
 
 ::
 
-bayes_
+bayes_:
 
 .. _bayes: http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/
