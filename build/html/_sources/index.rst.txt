@@ -12,7 +12,7 @@ Welcome to Brettlv's Blog
 欢迎访问～
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    base/index

@@ -8,6 +8,6 @@ pycbc,gwpy,mcmc;</body>
 
 
 
-* [pyabsc](01_pycbc.md)
-* [gwpy](02_gwpy.md)
-* [mcmc](03_mcmc.md)
+### [pycbc](01_pycbc.md)
+### [gwpy](02_gwpy.md)
+### [mcmc_bayes](03_mcmc.md)

@@ -12,7 +12,7 @@
 
 .. toctree::
    :includehidden:
-   :maxdepth: 2
+   :maxdepth: 3
 
    Preface.rst
    Chap1.rst
