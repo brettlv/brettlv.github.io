@@ -16,6 +16,6 @@
     :caption: Contents:
     :numbered: 2
 
-    01_linux.rst
-    02_python.rst
+    01_linux.md
+    02_python.md
 
