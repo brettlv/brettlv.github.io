@@ -16,7 +16,8 @@
 
 + [radiolearnnote](./radiolearnnote)
 + [pythoncode](./pythoncode)
-+ [build](./build/Readme.html)
++ [build](./build/README.html)
++ [source](./source/README.md)
 
 ### Some useful instruction for Markdown and Github
 
