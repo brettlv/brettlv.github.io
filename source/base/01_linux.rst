@@ -1,11 +1,18 @@
 Linux 
 ====================
 
+linux_base
+----------
 ::
+
 
 `linux_base`_
 
 .. _linux_base: linux_base.html
+
+linux_advance
+----------
+::
 
 `linux_advance`_
 
@@ -14,7 +21,6 @@ Linux
 
 
 
-======
 
 
 

@@ -1,50 +1,30 @@
 Linux 
 ====================
 
-Linux_base
----------------
-
-linux_ 简单命令:
-
-.. _linux: https://www.tecmint.com/linux-commands-cheat-sheet/
-
-
-ls #show file list
-
-pwd #directory
-
-cd . #load in dir
-
-cd .. #back in dir
-
-mkdir #make dir
-
-rm (-rf) #delete file/dir
-
-sh test.sh #run file
-
-
-
-Linux_advance
----------------
-
+linux_base
+----------
 ::
 
-chmod 777
 
-chown brettlv
+`linux_base`_
 
-vim_ test.py #edit file
+.. _linux_base: linux_base.html
 
-rst_ #example
+linux_advance
+----------
+::
 
-markdown_
+`linux_advance`_
 
-.. _vim: https://www.runoob.com/linux/linux-vim.html
+.. _linux_advance: linux_advance.html
 
-.. _rst: https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
 
-.. _markdown: https://guides.github.com/features/mastering-markdown/
+
+
+
+
+
+
 
 
 
