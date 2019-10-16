@@ -43,7 +43,7 @@ def main(argv):
     else:
         mdname='Readme.md'
     with open(mdname,'w+') as f:
-        f.write(pwdpath.split('/')[-2]+':'+pwdpath.split('/')[-1]+'\n')
+        f.write(pwdpath.split('/')[-2]+':'+pwdpath.split('/')[-1]+'\n'+'==\n')
         f.write('- [return back](../) \n')
         f.write('\n dirslist: \n')
         for i in dirs:
