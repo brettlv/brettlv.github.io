@@ -51,7 +51,7 @@ source_suffix = {'.md':'markdown','.rst':'restructuredtext', '.txt':'markdown',}
 #source_suffix = '.rst'
 
 from recommonmark.parser import CommonMarkParser
-source_parsers={'.md':CommonMarkParser,}
+#source_parsers={'.md':CommonMarkParser,}
 # The master toctree document.
 master_doc = 'index'
 
