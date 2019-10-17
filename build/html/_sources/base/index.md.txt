@@ -8,12 +8,16 @@
 
 
 ## [linux](01_linux.md)
-### [linux_base](./linux/linux_base.md)
-### [linux_advance](./linux/linux_advance.md)
-
+### [linux_base](./linux/linux_01_base.md)
+### [linux_advance](./linux/linux_02_advance.md)
+<br><br><br><br><br><br>
 
 ## [python](02_python.md)
-### [python_data](./python/python_data.md)
-### [python_plot](./python/python_plt.md)
-### [python_astropy](./python/python_astropy.md)
+### [python_data](./python/python_01_data.md)
+### [python_plot](./python/python_02_plt.md)
+### [python_astropy](./python/python_03_astropy.md)
+<br><br><br><br><br><br>
 
++ [return_top](./index.html)<br>
++ [return_back](../index.html)<br>
++ [next](./01_linux.html)<br>
