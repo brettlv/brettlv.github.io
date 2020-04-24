@@ -1,0 +1,671 @@
+Astro2020 Science White Paper: Future X-ray Studies of Supernova
+  Remnants
+A Unique Messenger to Probe Active Galactic Nuclei: High-Energy
+  Neutrinos
+The role of Active Galactic Nuclei in galaxy evolution: insights from
+  space ultraviolet spectropolarimetry
+Astro2020 Science White Paper: Dynamical Processes in the Planet-Forming
+  Environment
+Astro2020 Science White Paper: Radial Metallicity Gradients in
+  Star-Forming Galaxies
+Searches for Technosignatures in Astronomy and Astrophysics
+A Need for Dedicated Outreach Expertise and Online Programming:
+  Astro2020 Science White Paper
+Astro2020: Unleashing the Potential of Dust Emission as a Window onto
+  Galaxy Evolution
+Astro2020 State of the Profession White Paper: Astronomy's Archival
+  Materials
+The Compton Spectrometer and Imager
+Supermassive Black Hole Spin and Reverberation
+WAET: low-cost ground based telescopes for accelerated exoplanet direct
+  imaging
+Astro2020 Decadal Science White Paper: The state of gravitational-wave
+  astrophysics in 2020
+Astro2020 Science White Paper: Cosmology with a Space-Based
+  Gravitational Wave Observatory
+Astro2020 Science White Paper: High-Resolution Spectroscopic Surveys of
+  Ultracool Dwarf Stars & Brown Dwarfs
+Astro2020 Science White Paper: Fundamental Physics with Brown Dwarfs:
+  The Mass-Radius Relation
+Astro2020 Decadal Science White Paper: Gravitational Wave Survey of
+  Galactic Ultra Compact Binaries
+Astro2020: Unlocking the Secrets of Late-Stage Stellar Evolution and
+  Mass Loss through Radio Wavelength Imaging
+Astro2020 Science White Paper: Black Hole Growth in Mergers and Dual AGN
+Astro2020 Science White Paper: High Angular Resolution Astrophysics -
+  Fundamental Stellar Parameters
+Astro2020 Science White Paper: Do Supermassive Black Hole Winds Impact
+  Galaxy Evolution?
+Astro2020 Science White Paper: Magnetic Fields and Polarization in the
+  Diffuse Interstellar Medium
+High-Energy Galactic Cosmic Rays (Astro2020 Science White Paper)
+Astro2020 Science White Paper: A Shocking Shift in Paradigm for
+  Classical Novae
+Astro2020 Science White Paper: Local Dwarf Galaxy Archaeology
+Astro2020: Hot Drivers of Stellar Feedback from 10 to 10,000 pc
+Astro2020: How does dust escape from galaxies?
+Astro2020 Science White Paper: The Extended Cool Gas Reservoirs Within z
+  > 1 (Proto-)Cluster Environments
+Astro2020 Science White Paper: Black Holes Across Cosmic Time
+Astro2020 Science White Paper: A Summary of Multimessenger Science with
+  Galactic Binaries
+Astro2020 Science White Paper: A New Era for X-ray Lensing Studies of
+  Quasars and Galaxies
+Astro2020 Science White Paper: Cold Gas Outflows, Feedback, and the
+  Shaping of Galaxies
+Astro2020 Science White Paper: A Unification of the Micro and Macro
+  Physics in the Intracluster Medium of Nearby Clusters
+Astro2020 Science White Paper: Populations of Black Holes in Binaries
+Astro2020 Science White Paper: Compact Stellar Jets
+Astro2020 Science White Paper: Probing the Structure of Interstellar
+  Dust from Micron to Kpc Scales with X-ray Imaging
+The production and escape of ionizing photons from galaxies over cosmic
+  time (Astro2020 Science White Paper)
+Astro2020: Training the Future Generation of Computational Researchers
+A better consensus: Changes to the Decadal process itself
+Astro2020: Promoting Diversity and Inclusion in Astronomy Graduate
+  Education: an Astro2020 APC White Paper by the AAS Taskforce on Diversity and
+  Inclusion in Astronomy Graduate Education
+Astro2020 APC White Paper: Durable Agency Support for Exoplanet Catalogs
+  and Archives
+Searches for Technosignatures: The State of the Profession
+Realizing the potential of astrostatistics and astroinformatics
+Astro2020 Science White Paper: Science Platforms for Resolved Stellar
+  Populations in the Next Decade
+The Early Evolution of Stars and Exoplanet Systems: Exploring and
+  Exploiting Nearby, Young Stars (an Astro2020 Science White Paper)
+Astro2020 APT White Paper: "Mind the gap": a call to redesign astronomy
+  graduate education
+Astro2020: Astrophotonics White Paper
+A Great Successor to the Hubble Space Telescope
+The LUVOIR Mission Concept Study Interim Report
+What is the nature and origin of the highest-energy particles in the
+  universe?
+Discovery of Cold Brown Dwarfs or Free-Floating Giant Planets Close to
+  the Sun
+The radio search for technosignatures in the decade 2020-2030
+Supermassive Black-hole Demographics & Environments With Pulsar Timing
+  Arrays
+Fundamental Physics with Radio Millisecond Pulsars
+Stellar Characterization Necessary to Define Holistic Planetary
+  Habitability
+An Interdisciplinary Perspective on Elements in Astrobiology: From Stars
+  to Planets to Life
+The Discovery Potential of Space-Based Gravitational Wave Astronomy
+Astro2020 APC White Paper: The Early Career Perspective on the Coming
+  Decade, Astrophysics Career Paths, and the Decadal Survey Process
+Robotic laser adaptive optics for rapid visible/near-infrared AO imaging
+  and boosted-sensitivity low-resolution NIR integral field spectroscopy
+Scheduling Discovery in the 2020s
+Next Generation LSST Science
+Cal X-1: an absolute in-orbit calibrator for current and future X-ray
+  observatories
+Near-Field Cosmology with the Lowest-Mass Galaxies
+Gamma Rays and Gravitational Waves
+Astro2020 Science White Paper: What is the lifecycle of gas and stars in
+  galaxy centers?
+Astro2020 Science White Paper: Assembly of the Most Massive Clusters at
+  Cosmic Noon
+Stellar multiplicity: an interdisciplinary nexus
+Astro2020: Molecular Masers as Probes of the Dynamic Atmospheres of
+  Dying Stars
+ASTRO2020 White Paper: JWST: Probing the Epoch of Reionization with a
+  Wide Field Time-Domain Survey
+Astro2020 Science White Paper: ISM and CGM in external galaxies
+Astro2020 Science White Paper: Stellar Physics and Galactic Archeology
+  using Asteroseismology in the 2020's
+Astro2020 Science White Paper: The Local Relics of of Supermassive Black
+  Hole Seeds
+Astro2020 Science White Paper: gravity-wave asteroseismology of
+  intermediate- and high-mass stars
+Astro2020 Science White Paper: Radio Counterparts of Compact Object
+  Mergers in the Era of Gravitational-Wave Astronomy
+Astro2020 Science White Paper: Probing Magnetic Reconnection in Solar
+  Flares - New Perspectives from Radio Dynamic Imaging Spectroscopy
+Circumgalactic Gas and the Precipitation Limit
+Astro2020 Science White Paper: The fundamentals of outflows from evolved
+  stars
+Astro2020 White Paper: A Direct Measure of Cosmic Acceleration
+Astro2020: From Stars to Compact Objects: The Initial-Final Mass
+  Relation
+Astro2020 Science White Paper: Are Supernovae the Dust Producer in the
+  Early Universe?
+The Origin of Elements Across Cosmic Time: Astro2020 Science White Paper
+Astro2020 APC White Paper: Accessible Astronomy: Policies, Practices,
+  and Strategies to Increase Participation of Astronomers with Disabilities
+POEMMA (Probe of Extreme Multi-Messenger Astrophysics) design
+Astro2020 APC White Paper: Pursuing diversity, equity, and inclusion in
+  multimessenger astronomy collaborations over the coming decade
+Ex Luna, Scientia: The Lunar Occultation eXplorer (LOX)
+On the need for synthetic data and robust data simulators in the 2020s
+Astro2020 Project White Paper: PolyOculus -- Low-cost Spectroscopy for
+  the Community
+A Realistic Roadmap to Formation Flying Space Interferometry
+Key Challenges for AAS Journals in the Next Decade
+Astro2020 APC White Paper: Providing a Timely Review of Input
+  Demographics to Advisory Committees
+Astro2020 APC White Paper: Findings and Recommendations from the AAS
+  Committee on the Status of Women in Astronomy: Advancing the Career
+  Development of Women in Astronomy
+Astro2020 APC White Paper: The need for better tools to design future
+  CMB experiments
+Astro2020 APC White Paper: Collaboration with Integrity: Indigenous
+  Knowledge in 21st Century Astronomy
+Astro2020 APC White Paper: Enabling Terminal Master's Degrees as a Step
+  Towards a Ph.D
+Leadership and Participation in NASA's Explorer-Class Missions
+Astro2020 APC White Paper: SmallSats for Astrophysics
+Astro2020 APC White Paper: Theoretical Astrophysics 2020-2030
+Packed Ultra-wideband Mapping Array (PUMA): Astro2020 RFI Response
+Opportunities for Multimessenger Astronomy in the 2020s
+Astro2020: Empirically Constraining Galaxy Evolution
+Astro2020 Science White Paper: Understanding the evolution of close
+  white dwarf binaries
+Astro2020 Science White Paper: Toward Finding Earth 2.0: Masses and
+  Orbits of Small Planets with Extreme Radial Velocity Precision
+Constraining Stellar Photospheres as an Essential Step for Transmission
+  Spectroscopy of Small Exoplanets
+Astro2020 Science White Paper: First Stars and Black Holes at Cosmic
+  Dawn with Redshifted 21-cm Observations
+Astro2020 Science White Paper: Spatially Resolved UV Nebular Diagnostics
+  in Star-Forming Galaxies
+Astro2020 science white paper: The gravitational wave view of massive
+  black holes
+Astro2020 Science White Paper: Triggered High-Priority Observations of
+  Dynamic Solar System Phenomena
+Detecting Earth-like Biosignatures on Rocky Exoplanets around Nearby
+  Stars with Ground-based Extremely Large Telescopes
+Astro2020 Science White Paper: Physical Conditions in the Cold Gas of
+  Local Galaxies
+Astro2020 Science White Paper: Discovery Frontiers of Explosive
+  Transients - An ELT & LSST Perspective
+Astro2020 Science White Paper: The Formation and Evolution of Multiple
+  Star Systems
+Astro2020 Science White Paper: Measuring Protostar Masses: The Key to
+  Protostellar Evolution
+Astro2020 Science White Paper - Quasar Microlensing: Revolutionizing our
+  Understanding of Quasar Structure and Dynamics
+Astro2020 Science White Paper: Exploration and characterization of the
+  earliest epoch of galaxy formation: beyond the re-ionization era
+A Roadmap for Astrophysics and Cosmology with High-Redshift 21 cm
+  Intensity Mapping
+2020 Vision: Towards a Sustainable OIR System
+Astro2020 Project White Paper: The Cosmic Accelerometer
+Better support for collaborations preparing for large-scale projects:
+  the case study of the LSST Science Collaborations Astro2020 APC White Paper
+Astro2020 APC White Paper: Tying Research Funding to Progress on
+  Inclusion
+Using Artificial Intelligence to Augment Science Prioritization for
+  Astro2020
+Astro2020 APC White Paper: Findings and Recommendations from the AAS
+  Committee on the Status of Women in Astronomy: Towards Eliminating Harassment
+  in Astronomy
+Joint Survey Processing of LSST, Euclid and WFIRST: Enabling a broad
+  array of astrophysics and cosmology through pixel level combinations of
+  datasets
+CMB-HD: Astro2020 RFI Response
+The Role of Machine Learning in the Next Decade of Cosmology
+From Dark Energy to Exolife: Improving the Digital Information
+  Infrastructure for Astrophysics
+Tests of General Relativity and Fundamental Physics with Space-based
+  Gravitational Wave Detectors
+Astro2020 Science White Paper: A proposal to exploit galaxy-21cm
+  synergies to shed light on the Epoch of Reionization
+Neutrino Mass from Cosmology: Probing Physics Beyond the Standard Model
+Accretion in Stellar-Mass Black Holes at High X-ray Spectral Resolution
+Fundamental Physics with High-Energy Cosmic Neutrinos
+Astrophysics Uniquely Enabled by Observations of High-Energy Cosmic
+  Neutrinos
+Tracing the Origins and Evolution of Small Planets using Their Orbital
+  Obliquities
+Identification and characterization of the host stars in planetary
+  microlensing with ELTs
+Probing Feedback in Galaxy Formation with Millimeter-wave Observations
+Determining the Equation of State of Cold, Dense Matter with X-ray
+  Observations of Neutron Stars
+High Angular Resolution Astrophysics: Resolving Stellar Surface Features
+Probing the origin of our Universe through cosmic microwave background
+  constraints on gravitational waves
+Star Formation in Different Environments: The Initial Mass Function
+Cosmological Probes of Dark Matter Interactions: The Next Decade
+Studying the Reionization Epoch with QSO Absorption Lines
+Walking along Cosmic History: Metal-poor Massive Stars
+X-ray follow-up of extragalactic transients
+Direct Acceleration: Cosmic and Exoplanet Synergies
+EUV influences on exoplanet atmospheric stability and evolution
+EUV observations of cool dwarf stars
+Ultraviolet Spectropolarimetry as a Tool for Understanding the Diversity
+  of Exoplanetary Atmospheres
+Mapping Galaxy Clusters in the Distant Universe
+Stellar physics with high-resolution UV spectropolarimetry
+Radio Pulsar Populations
+Fast Radio Burst Tomography of the Unseen Universe
+Searching for Technosignatures: Implications of Detection and
+  Non-Detection
+The trail of water and the delivery of volatiles to habitable planets
+Towards a high accuracy measurement of the local black hole occupation
+  fraction in low mass galaxies
+Astro2020 White Paper: The L/T Transition
+Hunting for ancient brown dwarfs: the developing field of brown dwarfs
+  in globular clusters
+On the Use of Planetary Science Data for Studying Extrasolar Planets
+LSST Narrowband Filters
+Astro2020 Science White Paper: Synoptic Studies of the Sun as a Key to
+  Understanding Stellar Astrospheres
+Characterizing Transiting Exoplanets with JWST Guaranteed Time and ERS
+  Observations
+Engaging Citizen Scientists to Keep Transit Times Fresh and Ensure the
+  Efficient Use of Transiting Exoplanet Characterization Missions
+High-Energy Astrophysics in the 2020s and Beyond
+The Dynamic Infrared Sky
+Where are the Intermediate Mass Black Holes?
+The Promise of Data Science for the Technosignatures Field
+Mapping out the time-evolution of exoplanet processes
+Understanding Exoplanet Atmospheres with UV Observations I: NUV and
+  Blue/Optical
+Big Bang Nucleosynthesis and Neutrino Cosmology
+Deeper, Wider, Sharper: Next-Generation Ground-Based Gravitational-Wave
+  Observations of Binary Black Holes
+The Yet-Unobserved Multi-Messenger Gravitational-Wave Universe
+Detecting Offset Active Galactic Nuclei
+Exploring Active Supermassive Black Holes at 100 Micro-arcsecond
+  Resolution
+Supernova Remnants in High Definition
+Scratches from the Past: Inflationary Archaeology through Features in
+  the Power Spectrum of Primordial Fluctuations
+Ground-Based Radial Velocity as Critical Support for Future NASA
+  Earth-Finding Missions
+Understanding Exoplanet Atmospheres with UV Observations II: The Far UV
+  and Atmospheric Escape
+Multi-Messenger Astrophysics Opportunities with Stellar-Mass Binary
+  Black Hole Mergers
+A Survey of Hot Gas in the Universe
+Prospects for Pulsar Studies at MeV Energies
+Comparing key compositional indicators in Jupiter with those in
+  extra-solar giant planets
+Extragalactic Proper Motions: Gravitational Waves and Cosmology
+A Formaldehyde Deep Field
+Gravitational wave astronomy with LIGO and similar detectors in the next
+  decade
+Astro 2020 Science White Paper: Cosmic-ray Antinuclei as Messengers for
+  Dark Matter
+Emission Line Mapping of the Circumgalactic Medium of Nearby Galaxies
+High-Resolution X-ray Imaging Studies of Neutron Stars, Pulsar Wind
+  Nebulae and Supernova Remnants
+B-mode Targets
+Cosmic Explorer: The U.S. Contribution to Gravitational-Wave Astronomy
+  beyond LIGO
+Astro2020 Activity, Project of State of the Profession Consideration
+  (APC) White Paper: All-Sky Near Infrared Space Astrometry. State of the
+  Profession Considerations: Development of Scanning NIR Detectors for
+  Astronomy
+Robust Archives Maximize Scientific Accessibility
+Astro2020 APC White Paper: Astronomy should be in the clouds
+Maintaining Capabilities in CCD Production for the Astronomy Community
+The Maunakea Spectroscopic Explorer
+CubeSats for Astronomy and Astrophysics
+The Social Sciences Interdisciplinarity for Astronomy and Astrophysics
+  -- Lessons from the History of NASA and Related Fields
+Technosignatures in the Thermal Infrared
+Technosignatures in Transit
+Trinity: An Air-Shower Imaging Instrument to detect Ultrahigh Energy
+  Neutrinos
+The Future of Exoplanet Direct Detection
+Imaging the Key Stages of Planet Formation
+The NOAO Mid-Scale Observatories
+CMB Spectral Distortions: Status and Prospects
+The Data Lab: A Science Platform for the analysis of ground-based
+  astronomical survey data
+Optical and Near-IR Microwave Kinetic Inductance Detectors (MKIDs) in
+  the 2020s
+Science opportunities enabled by the era of Visible Band Stellar Imaging
+  with sub-100 μarc-sec angular resolution
+The NANOGrav Program for Gravitational Waves and Fundamental Physics
+Extremely long baseline interferometry with Origins Space Telescope
+Enhancing Conference Participation to Bridge the Diversity Gap
+The LUVOIR Mission Concept Study Final Report
+Reframing astronomical research through an anticolonial lens -- for TMT
+  and beyond
+Understanding the circumgalactic medium is critical for understanding
+  galaxy evolution
+Astro2020 Science White Paper: The Next Decade of Astroinformatics and
+  Astrostatistics
+Astro2020 Science White Paper: Construction of an L* Galaxy: the
+  Transformative Power of Wide Fields for Revealing the Past, Present and
+  Future of the Great Andromeda System
+Astro2020 Science White Paper: Using X-Ray Polarimetry to Probe the
+  Physics of Black Holes and Neutron Stars
+The Atacama Large Aperture Submillimeter Telescope (AtLAST)
+In Pursuit of Galactic Archaeology: Astro2020 Science White Paper
+Astro2020 Activities and Projects White Paper: Arecibo Observatory in
+  the Next Decade
+The Dark Energy Spectroscopic Instrument (DESI)
+Relativistic Jets in the Accretion & Collimation Zone: New Challenges
+  Enabled by New Instruments
+X-rays Studies of the Solar System
+A Summary of Multimessenger Science with Neutron Star Mergers
+Kiloparsec-scale Jets: Physics, Emission Mechanisms, and Challenges
+Astrophysics and Cosmology with Line-Intensity Mapping
+Multi-Physics of AGN Jets in the Multi-Messenger Era
+The hidden circumgalactic medium
+Energetic Particles of Cosmic Accelerators I: Galactic Accelerators
+The warm and dense Galaxy - tracing the formation of dense cloud
+  structures out to the Galactic Center
+Energetic Particles of Cosmic Accelerators II: Active Galactic Nuclei
+  and Gamma-ray Bursts
+Radio Time-Domain Signatures of Magnetar Birth
+Gravitational wave cosmology and astrophysics with large spectroscopic
+  galaxy surveys
+Dynamical Masses for a Complete Census of Local Dwarf Galaxies
+The Magellanic Stream as a Probe of Astrophysics
+Spectroscopic Observations of the Fermi Bubbles
+Historical astronomical data: urgent need for preservation, digitization
+  enabling scientific exploration
+Intermediate-Mass Black Holes in Extragalactic Globular Clusters
+Tracing the formation history of galaxy clusters into the epoch of
+  reionization
+Astro2020 Science White Paper: Science at the edges: internal kinematics
+  of globular clusters' external fields
+High-Dimensional Dust Mapping
+Probing the Physical Properties of the Corona in Accreting Black Holes
+Polarization in Disks
+The Future Landscape of High-Redshift Galaxy Cluster Science
+Galaxy Winds in the Age of Hyperdimensional Astrophysics
+Magnetars as Astrophysical Laboratories of Extreme Quantum
+  Electrodynamics: The Case for a Compton Telescope
+Cosmic Rays and Interstellar Medium with Gamma-Ray Observations at MeV
+  Energies
+Prospects for the detection of synchrotron halos around middle-age
+  pulsars
+The Nature of Low-Density Star Formation
+Neutrinos, Cosmic Rays and the MeV Band
+Looking Under a Better Lamppost: MeV-scale Dark Matter Candidates
+Astro2020: The Cycling of Matter from the Interstellar Medium to Stars
+  and back
+Supermassive black holes at high redshifts
+Far to near UV spectroscopy of the interstellar medium at very high
+  resolution and very high signal-to-noise ratio
+Solar system Deep Time-Surveys of atmospheres, surfaces, and rings
+The Sun at GeV--TeV Energies: A New Laboratory for Astroparticle Physics
+Physics of cosmic plasmas from high angular resolution X-ray imaging of
+  galaxy clusters
+Probing 3D Density and Velocity Fields of ISM in Centers of Galaxies
+  with Future X-Ray Observations
+Testing general relativity with accretion onto compact objects
+Exploring the physics of neutron stars with high-resolution,
+  high-throughput X-ray spectroscopy
+Completing the Hydrogen Census in the Circumgalactic Medium at z~0
+Twelve Decades: Probing the Interstellar Medium from kiloparsec to
+  sub-AU scales
+Prospects for AGN Studies at Hard X-ray through MeV Energies
+Detecting the Birth of Supermassive Black Holes Formed from Heavy Seeds
+Time-Domain Photometry of Protostars at Far-Infrared and Submillimeter
+  Wavelengths
+Following the Metals in the Intergalactic and Circumgalactic Medium over
+  Cosmic Time
+Exploring the composition of icy bodies at the fringes of the Solar
+  System with next generation space telescopes
+Big Science with a nUV-MidIR Rapid-Response 1.3m telescope at L2
+Measurement of the Free-Floating Planet Mass Function with Simultaneous
+  Euclid and WFIRST Microlensing Parallax Observations
+Probing the Time Domain with High Spatial Resolution
+Gravitational Waves, Extreme Astrophysics, and Fundamental Physics with
+  Precision Pulsar Timing
+Studying Magnetic Fields in Star Formation and the Turbulent
+  Interstellar Medium
+Metal Abundances and Depletions in the Neutral Interstellar Medium of
+  Galaxies: the Local Volume as a Laboratory
+Characterizing the Atmospheres of Irradiated Exoplanets at High Spectral
+  Resolution
+Understanding Accretion Outbursts in Massive Protostars through Maser
+  Imaging
+AGN (and other) astrophysics with Gravitational Wave Events
+Astro 2020 Science White Paper: Time Domain Studies of Neutron Star and
+  Black Hole Populations: X-ray Identification of Compact Object Types
+Interstellar Dust Grains: Ultraviolet and Mid-IR Extinction Curves
+Probing Unseen Planet Populations with Resolved Debris Disk Structures
+The Panchromatic Circumgalactic Medium
+Precision measurement of magnetic field from near to far, from fine to
+  large scales in ISM
+Realizing the Unique Potential of ALMA to Probe the Gas Reservoir of
+  Planet Formation
+Tomography of the Cosmic Dawn and Reionization Eras with Multiple
+  Tracers
+Dark Energy and Modified Gravity
+Understanding Galactic Star Formation with Next Generation X-ray
+  Spectroscopy and Imaging
+Early evolution of galaxies and of large-scale structure from CMB
+  experiments
+Radio sources in next-generation CMB surveys
+Opportunities in Time-Domain Extragalactic Astrophysics with the NASA
+  Near-Earth Object Camera (NEOCam)
+Debris Disk Composition: A Diagnostic Tool for Planet Formation and
+  Migration
+Gravitational probes of ultra-light axions
+Astro2020 White Paper: On the Origin of the Initial Mass Function
+The Life Cycle of Dust
+Astro 2020: Astromineralogy of interstellar dust with X-ray spectroscopy
+Astro2020 Science White Paper: Making the Connection between Feedback
+  andSpatially Resolved Emission Line Diagnostics
+The Radio Universe at Low Surface Brightness: Feedback & accretion in
+  the circumgalactic medium
+Resolving the cosmic X-ray background with a next-generation high-energy
+  X-ray observatory
+The Nonbinary Fraction: Looking Towards the Future of Gender Equity in
+  Astronomy
+(Un)conscious Bias in the Astronomical Profession: Universal
+  Recommendations to improve Fairness, Inclusiveness, and Representation
+Absolute Prioritization of Planetary Protection, Safety, and Avoiding
+  Imperialism in All Future Science Missions: A Policy Perspective
+SpecTel: A 10-12 meter class Spectroscopic Survey Telescope
+Primarily Undergraduate Institutions and the Astronomy Community
+NANOGrav Education and Outreach: Growing a Diverse and Inclusive
+  Collaboration for Low-Frequency Gravitational Wave Astronomy
+Advanced Astrophysics Discovery Technology in the Era of Data Driven
+  Astronomy
+Setting the Stage for the Planet Formation Imager
+Investing for Discovery in Astronomy
+Astro2020 White Paper State of the Profession: Intensity Interferometry
+The Mid-InfraRed Exo-planet CLimate Explorer MIRECLE: Exploring the
+  Nearest M-Earths Through Ultra-Stable Mid-IR Transit and Phase-Curve
+  Spectroscopy
+Characterizing the Distribution of Parameters of Planets Found by Radial
+  Velocity is Essential for Understanding Planet Formation and Evolution
+Subsystem Development for the All-Sky Medium Energy Gamma-ray
+  Observatory (AMEGO) prototype
+Stars at High Spatial Resolution
+The NASA Probe space mission concept, Cosmic Evolution Through UV
+  Surveys (CETUS)
+Building A Field: The Future of Astronomy with Gravitational Waves, A
+  State of The Profession Consideration for Astro2020
+Dark Cosmology: Investigating Dark Matter & Exotic Physics in the Dark
+  Ages using the Redshifted 21-cm Global Spectrum
+An Arena for Multi-Messenger Astrophysics: Inspiral and Tidal Disruption
+  of White Dwarfs by Massive Black Holes
+Probing the Cosmological Evolution of Super-massive Black Holes using
+  Tidal Disruption Flares
+A High-resolution SZ View of the Warm-Hot Universe
+The unique potential of extreme mass-ratio inspirals for
+  gravitational-wave astronomy
+What we can learn from multi-band observations of black hole binaries
+Populations behind the source-subtracted cosmic infrared background
+  anisotropies
+Multimessenger science opportunities with mHz gravitational waves
+Unveiling the Phase Transition of the Universe During the Reionization
+  Epoch with Lyman-alpha
+UV Diagnostics of Galaxies from the Peak of Star-Formation to the Epoch
+  of Reionization
+Unveiling the Galaxy Cluster - Cosmic Web Connection with X-ray
+  observations in the Next Decade
+Mapping Cosmic Dawn and Reionization: Challenges and Synergies
+WFIRST: Enhancing Transient Science and Multi-Messenger Astronomy
+Cool, evolved stars: results, challenges, and promises for the next
+  decade
+Near-Earth Supernova Explosions: Evidence, Implications, and
+  Opportunities
+Cyberinfrastructure Requirements to Enhance Multi-messenger Astrophysics
+Probing Macro-Scale Gas Motions and Turbulence in Diffuse Cosmic Plasmas
+High-Energy Polarimetry - a new window to probe extreme physics in AGN
+  jets
+Testing the Nature of Dark Matter with Extremely Large Telescopes
+Measuring the Hubble Constant Near and Far in the Era of ELT's
+Protoplanetary Disk Science Enabled by Extremely Large Telescopes
+The Next Generation of Cosmological Measurements with Type Ia Supernovae
+Cosmic voids: a novel probe to shed light on our Universe
+Variability in the Assembly of Protostellar Systems
+Imaging Giant Protoplanets with the ELTs
+The Critical, Strategic Importance of Adaptive Optics-Assisted
+  Ground-Based Telescopes for the Success of Future NASA Exoplanet Direct
+  Imaging Missions
+Positron Annihilation in the Galaxy
+Taking Census of Massive, Star-Forming Galaxies formed <1 Gyr After the
+  Big Bang
+Extremely metal-poor stars: the need for UV spectra
+Opportunities for Astrophysical Science from the Inner and Outer Solar
+  System
+Illuminating the dark universe with a very high density galaxy redshift
+  survey over a wide area
+Astro2020 Science White Paper: Synergies Between Galaxy Surveys and
+  Reionization Measurements
+Ultraviolet Perspectives on Diffuse Gas in the Largest Cosmic Structures
+Astro2020 Science White Paper: Insights Into the Epoch of Reionization
+  with the Highly-Redshifted 21-cm Line
+The Demographics and Atmospheres of Giant Planets with the ELTs
+The physics and astrophysics of X-ray outflows from Active Galactic
+  Nuclei
+Breaking the limit: Super-Eddington accretion onto black holes and
+  neutron stars
+Observing Galaxy Evolution in the Context of Large-Scale Structure
+New Frontiers for Terrestrial-sized to Neptune-sized Exoplanets In the
+  Era of Extremely Large Telescopes
+Multi-Messenger Astrophysics with Pulsar Timing Arrays
+Pulsars in a Bubble? Following Electron Diffusion in the Galaxy with TeV
+  Gamma Rays
+GRBs as Probes of the Early Universe with TSO
+Low Mass Stars as Tracers of Star Formation in Diverse Environments
+Wide-Orbit Exoplanet Demographics
+Unlocking the Capabilities of Future High-Resolution X-ray Spectroscopy
+  Missions Through Laboratory Astrophysics
+The Disk Gas Mass and the Far-IR Revolution
+Wide-field Multi-object Spectroscopy to Enhance Dark Energy Science from
+  LSST
+Single-object Imaging and Spectroscopy to Enhance Dark Energy Science
+  from LSST
+Deep Multi-object Spectroscopy to Enhance Dark Energy Science from LSST
+Mapping Gas Phase Abundances and Enrichment Patterns Across Galaxy Disks
+Supermassive Black Hole Feedback
+Cosmic evolution of supermassive black holes: A view into the next two
+  decades
+The Next Generation Celestial Reference Frame
+High-Energy Photon and Particle Effects onExoplanet Atmospheres and
+  Habitability
+The Physics of Accretion Onto Highly Magnetized Neutron Stars
+WFIRST: The Essential Cosmology Space Observatory for the Coming Decade
+Exocometary Science
+Astro 2020 Science White Paper: Evolved Planetary Systems around White
+  Dwarfs
+Achieving Transformative Understanding of Extreme Stellar Explosions
+  with ELT-enabled Late-time Spectroscopy
+Disentangling nature from nurture: tracing the origin of seed black
+  holes
+The Most Powerful Lenses in the Universe: Quasar Microlensing as a Probe
+  of the Lensing Galaxy
+Lyman continuum observations across cosmic time: recent developments,
+  future requirements
+Another Servicing Mission to Extend Hubble Space Telescope's Science
+  past the Next Decade
+Commensal, Multi-user Observations with an Ethernet-based Jansky Very
+  Large Array
+FARSIDE: A Low Radio Frequency Interferometric Array on the Lunar
+  Farside
+The Laser Interferometer Space Antenna: Unveiling the Millihertz
+  Gravitational Wave Sky
+Integrating Undergraduate Research and Faculty Development in a Legacy
+  Astronomy Research Project
+Astro2020 APC White Paper: Elevating the Role of Software as a Product
+  of the Research Enterprise
+The DSA-2000 -- A Radio Survey Camera
+Embedding Climate Change Engagement in Astronomy Education and Research
+Astrobites as a Community-led Model for Education, Science
+  Communication, and Accessibility in Astrophysics
+High-Contrast Testbeds for Future Space-Based Direct Imaging Exoplanet
+  Missions
+Space Based Gravitational Wave Astronomy Beyond LISA
+The Next-Generation Radio Neutrino Observatory -- Multi-Messenger
+  Neutrino Astrophysics at Extreme Energies
+Research and Development for HI Intensity Mapping
+Community Involvement in the WFIRST Exoplanet Microlensing Survey
+Linking the Solar System and Extrasolar Planetary Systems with Radar
+  Astronomy: Infrastructure for "Ground Truth" Comparison
+PICO: Probe of Inflation and Cosmic Origins
+Infrastructure and Strategies for Time Domain and MMA and Follow-Up
+Studying Black Holes on Horizon Scales with VLBI Ground Arrays
+A Native Hawaiian-led summary of the current impact of constructing the
+  Thirty Meter Telescope on Maunakea
+An Ultra Deep Field survey with WFIRST
+The Southern Wide-Field Gamma-Ray Observatory (SWGO): A Next-Generation
+  Ground-Based Survey Instrument for VHE Gamma-Ray Astronomy
+Science from an Ultra-Deep, High-Resolution Millimeter-Wave Survey
+Cosmic Dawn and Reionization: Astrophysics in the Final Frontier
+The First Luminous Quasars and Their Host Galaxies
+The Advanced X-ray Imaging Satellite
+Electromagnetic probes of primordial black holes as dark matter
+Planet formation: The case for large efforts on the computational side
+Gravity and Light: Combining Gravitational Wave and Electromagnetic
+  Observations in the 2020s
+Multi-Messenger Astronomy with Extremely Large Telescopes
+The case for a 'sub-millimeter SDSS': a 3D map of galaxy evolution to
+  z~10
+"SZ spectroscopy" in the coming decade: Galaxy cluster cosmology and
+  astrophysics in the submillimeter
+Simultaneous Measurements of Star Formation and Supermassive Black Hole
+  Growth in Galaxies
+On the observability of individual Population III stars and their
+  stellar-mass black hole accretion disks through cluster caustic transits
+Reconstructing Extreme Space Weather from Planet Hosting Stars
+Masses and Distances of Planetary Microlens Systems with High Angular
+  Resolution Imaging
+The Scientific Context of WFIRST Microlensing in the 2020s
+Electromagnetic Window into the Dawn of Black Holes
+The evolution of the cosmic molecular gas density
+"Auxiliary" Science with the WFIRST Microlensing Survey
+Imprint of Drivers of Galaxy Formation in the Circumgalactic Medium
+Ultra-heavy cosmic-ray science--Are r-process nuclei in the cosmic rays
+  produced in supernovae or binary neutron star mergers?
+Directly Imaging Rocky Planets from the Ground
+The Need for Laboratory Measurements and Ab Initio Studies to Aid
+  Understanding of Exoplanetary Atmospheres
+CMB-HD: An Ultra-Deep, High-Resolution Millimeter-Wave Survey Over Half
+  the Sky
+IDEAS: Immersive Dome Experiences for Accelerating Science
+FOBOS: A Next-Generation Spectroscopic Facility at the W. M. Keck
+  Observatory
+Enabling the next generation of scientific discoveries by embracing
+  photonic technologies
+Astro2020 APC White Paper: The MegaMapper: a z > 2 spectroscopic
+  instrument for the study of Inflation and Dark Energy
+Packed Ultra-wideband Mapping Array (PUMA): A Radio Telescope for
+  Cosmology and Transients
+High-resolution Infrared Spectrograph for Exoplanet Characterization
+  with the Keck and Thirty Meter Telescopes
+ATLAS Probe: Breakthrough Science of Galaxy Evolution, Cosmology, Milky
+  Way, and the Solar System
+The CCAT-Prime Submillimeter Observatory
+The Growing Importance of a Tech Savvy Astronomy and Astrophysics
+  Workforce
+The Case for Probe-class NASA Astrophysics Missions
+The Simons Observatory: Astro2020 Decadal Project Whitepaper
+The Wide Field Infrared Survey Telescope: 100 Hubbles for the 2020s
+STROBE-X: X-ray Timing and Spectroscopy on Dynamical Timescales from
+  Microseconds to Years
+Spectral Distortions of the CMB as a Probe of Inflation, Recombination,
+  Structure Formation and Particle Physics
+Primordial Non-Gaussianity
+Messengers from the Early Universe: Cosmic Neutrinos and Other Light
+  Relics
+Envisioning the next decade of Galactic Center science: a laboratory for
+  the study of the physics and astrophysics of supermassive black holes
+Inflation and Dark Energy from spectroscopy at $z > 2$
+All-sky Medium Energy Gamma-ray Observatory: Exploring the Extreme
+  Multimessenger Universe
+Neutrino astronomy with the next generation IceCube Neutrino Observatory
