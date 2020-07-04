@@ -2,20 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2e7a06a-1418-42f7-8034-893a6e474bce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonfile/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonfile/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/1ES1927_nicer_changinglook-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/1ES1927_nicer_changinglook-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Dailyarxivreading-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Dailyarxivreading-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Mrk1018_vla_casa_radio-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Mrk1018_vla_casa_radio-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_code/.idea/pycharm_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pycharm_code/newtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/CygX-3_mwa_time_cover_table-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/CygX-3_mwa_time_cover_table-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Leetcodepython-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Leetcodepython-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566_ccf_rebin_wise-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566_ccf_rebin_wise-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566_sed-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NGC1566_sed-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/arxiv_word_frequency_statistical_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/arxiv_word_frequency_statistical_analysis-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/astro_query Astroquery - The paper-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/astro_query Astroquery - The paper-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/learn_casa-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/learn_casa-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1ES1927_nicer_changinglook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1ES1927_nicer_changinglook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dailyarxivreading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dailyarxivreading.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mrk1018_vla_casa_radio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mrk1018_vla_casa_radio.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arxivcheckerdaily.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arxivcheckerdaily.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro_query Astroquery - The paper.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/astro_query Astroquery - The paper.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_casa.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/learn_casa.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../radiolearnnote/casa VLA high frequency Spectral Line tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../radiolearnnote/casa VLA high frequency Spectral Line tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/python_scientific_plot-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/python_scientific_plot-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CygX-3_mwa_time_cover_table.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CygX-3_mwa_time_cover_table.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcodepython.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcodepython.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGC1566.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NGC1566.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGC1566_sed.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NGC1566_sed.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arxiv_dellpc_20190517_0724.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arxiv_dellpc_20190517_0724.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arxiv_word_frequency_statistical_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arxiv_word_frequency_statistical_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/fig3png.png" beforeDir="false" afterPath="$PROJECT_DIR$/figures/fig3png.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbtopdf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_scientific_plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python_scientific_plot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonfile/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonfile/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonhtmltopdf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlcl_sdss_sky_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,34 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BHmassdist_chi3.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pos_list.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonfile/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#33#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +48,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>science</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -68,20 +62,13 @@
       <list>
         <option value="$PROJECT_DIR$/pythonfile/test1.py" />
         <option value="$PROJECT_DIR$/pythonfile/test.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="43" />
+    <option name="x" value="193" />
+    <option name="y" value="23" />
     <option name="width" value="1241" />
     <option name="height" value="737" />
   </component>
@@ -90,28 +77,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pythoncode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythoncode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythoncode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -130,17 +102,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.python2">
+    <configuration name="python2" type="PythonConfigurationType" factoryName="Python">
       <module name="pythoncode" />
-      <option name="INTERPRETER_OPTIONS" value="$USER_HOME$/anaconda3/bin/python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonfile" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python3" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythoncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonfile/test.py" />
@@ -152,6 +145,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.python3" />
+      <item itemvalue="Python.python2" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -167,24 +164,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="43" width="1241" height="737" extended-state="0" />
-    <editor active="true" />
+    <frame x="193" y="23" width="1241" height="737" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34083602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3279743" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32868218" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -211,9 +207,7 @@
     <entry file="file://$PROJECT_DIR$/pyfits.ipynb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/astro2020whitepaperuptodate20190415.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/astro2020whitepaperuptodate20190415.txt" />
     <entry file="file://$PROJECT_DIR$/gif_test/test-2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -223,9 +217,7 @@
     <entry file="file://$PROJECT_DIR$/gif_test/re_gif.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BHmassdist_chi3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonfile/test1.py" />
     <entry file="file://$PROJECT_DIR$/pos_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -233,23 +225,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonfile/test1.py">
+    <entry file="file://$PROJECT_DIR$/BHmassdist_chi3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonfile/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#39#51#0" expanded="true" />
+            <element signature="e#95#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonfile/test.py">
+    <entry file="file://$PROJECT_DIR$/.idea/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#33#51#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
