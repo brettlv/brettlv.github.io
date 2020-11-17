@@ -16,6 +16,12 @@ mpl.rcParams['font.family'] = 'Avenir'
 plt.rcParams['font.size'] = 18
 plt.rcParams['axes.linewidth'] = 2
 
+
+fig=plt.figure(8,6)
+ax=fig.add_s    
+
+
+
 def set_ax_axis_tick():
     ax.xaxis.set_tick_params(which='major', size=10, width=2, direction='in', top='on')
     ax.xaxis.set_tick_params(which='minor', size=7, width=2, direction='in', top='on')
