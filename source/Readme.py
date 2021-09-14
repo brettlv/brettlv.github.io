@@ -51,7 +51,7 @@ def main(argv):
             if len(dirname_ipynb)>0:
                 f.write('\n ipynb_list: \n')
             for i in dirname_ipynb:
-                f.write('- [%s](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/%s%s)'%(i,web,i)+'\n')
+                f.write('- [%s](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/blob/master/%s%s)'%(i,web,i)+'\n')
             if len(dirname_pdf)>0:
                 f.write('\n pdf_list: \n')
             for i in dirname_pdf:
