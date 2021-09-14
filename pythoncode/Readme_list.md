@@ -22,7 +22,7 @@ brettlv.github.io:pythoncode
 - [python_code_exmaple](./python_code_exmaple)
 - [pyxspec_code](./pyxspec_code)
 - [radio_lightcurve](./radio_lightcurve)
-[^_^]:# (- [sss_code](./sss_code))
+[^_^]: # (- [sss_code](./sss_code))
 - [UVES](./UVES)
 
  files_list: 
