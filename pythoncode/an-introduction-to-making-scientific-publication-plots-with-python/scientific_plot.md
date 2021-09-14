@@ -1,6 +1,8 @@
 # [an-introduction-to-making-scientific-publication-plots](https://towardsdatascience.com/an-introduction-to-making-scientific-publication-plots-with-python-ea19dfa7f51e)
 
 # Import required packages
+``` python
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
