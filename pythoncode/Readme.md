@@ -5,10 +5,7 @@
 [list_Dirs](./Readme_list.md)
 
 
-# Mrk1018
-[Mrk1018](https://brettlv.github.io/pythoncode/Mrk1018)
 
-# [V404_cyg](./V404_cyg)
 
 # Radio
 [radio data casa note](https://brettlv.github.io/radiolearnnote)
