@@ -38,38 +38,36 @@ def main(argv):
     print(web)
     
     dirs,dirname_png,dirname_html,dirname_ipynb,dirname_pdf,dirname_pptx=get_file_list(pwdpath)
-    if os.path.isfile(os.path.join(pwdpath,'Readme.md')):
-        mdname='Readme_list.md'
-    else:
+    if not os.path.isfile(os.path.join(pwdpath,'Readme.md')):
         mdname='Readme.md'
-    with open(mdname,'w+') as f:
-        f.write(pwdpath.split('/')[-2]+':'+pwdpath.split('/')[-1]+'\n'+'==\n')
-        f.write('- [return back](../) \n')
-        f.write('\n dirslist: \n')
-        for i in dirs:
-            f.write('- [%s](./%s)'%(i,i)+'\n')
-        
-        f.write('\n files_list: \n')
-        if len(dirname_ipynb)>0:
-            f.write('\n ipynb_list: \n')
-        for i in dirname_ipynb:
-            f.write('- [%s](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/%s%s)'%(i,web,i)+'\n')
-        if len(dirname_pdf)>0:
-            f.write('\n pdf_list: \n')
-        for i in dirname_pdf:
-            f.write('- [%s](./%s)'%(i,i)+'\n')
-        if len(dirname_pptx)>0:
-            f.write('\n pptx_list: \n')
-        for i in dirname_pptx:
-            f.write('- [%s](https://view.officeapps.live.com/op/view.aspx?src=https://brettlv.github.io/%s%s)'%(i,web,i)+'\n')
-        if len(dirname_html)>0:
-            f.write('\n html_list: \n')
-        for i in dirname_html:
-            f.write('- [%s](./%s)'%(i,i)+'\n')
-        if len(dirname_png)>0:
-            f.write('\n png_list: \n')
-        for i in dirname_png:
-            f.write('- [%s](./%s)'%(i,i)+'\n')
+        with open(mdname,'w+') as f:
+            f.write(pwdpath.split('/')[-2]+':'+pwdpath.split('/')[-1]+'\n'+'==\n')
+            f.write('- [return back](../) \n')
+            f.write('\n dirslist: \n')
+            for i in dirs:
+                f.write('- [%s](./%s)'%(i,i)+'\n')
+            
+            f.write('\n files_list: \n')
+            if len(dirname_ipynb)>0:
+                f.write('\n ipynb_list: \n')
+            for i in dirname_ipynb:
+                f.write('- [%s](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/%s%s)'%(i,web,i)+'\n')
+            if len(dirname_pdf)>0:
+                f.write('\n pdf_list: \n')
+            for i in dirname_pdf:
+                f.write('- [%s](./%s)'%(i,i)+'\n')
+            if len(dirname_pptx)>0:
+                f.write('\n pptx_list: \n')
+            for i in dirname_pptx:
+                f.write('- [%s](https://view.officeapps.live.com/op/view.aspx?src=https://brettlv.github.io/%s%s)'%(i,web,i)+'\n')
+            if len(dirname_html)>0:
+                f.write('\n html_list: \n')
+            for i in dirname_html:
+                f.write('- [%s](./%s)'%(i,i)+'\n')
+            if len(dirname_png)>0:
+                f.write('\n png_list: \n')
+            for i in dirname_png:
+                f.write('- [%s](./%s)'%(i,i)+'\n')
 
 
 
