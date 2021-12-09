@@ -1,3 +1,0 @@
-ra,dec,clon,clat,sigra,sigdec,sigradec,w1mpro,w1sigmpro,w1snr,w1rchi2,w2mpro,w2sigmpro,w2snr,w2rchi2,nb,na,cc_flags,ph_qual,qual_frame,mjd,allwise_cntr,w1mpro_allwise,w1sigmpro_allwise,w2mpro_allwise,w2sigmpro_allwise,w3mpro_allwise,w3sigmpro_allwise,w4mpro_allwise,w4sigmpro_allwise,tmass_key,j_m_2mass,j_msig_2mass,h_m_2mass,h_msig_2mass,k_m_2mass,k_msig_2mass,dist,angle
-221.5911180,-64.2942785,b'14h46m21.87s',b'-64d17m39.40s',0.5509,0.5491,0.2000,16.841,,-0.1,4.421,13.692,0.174,6.2,1.452,1,0,b'0000',b'UB',5,57612.68529635,,,,,,,,,,,,,,,,,5.820079,103.906232
-221.5867880,-64.2960446,b'14h46m20.83s',b'-64d17m45.76s',0.5333,0.7218,-0.0671,15.688,,1.8,1.551,13.750,0.213,5.1,0.760,1,0,b'0000',b'UB',5,56892.20713287,,,,,,,,,,,,,,,,,7.83583,188.156404
