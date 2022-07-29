@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Long-term and multiwavelength evolution of a changing-look AGN Mrk 1018"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: #/publication/2009-10-01-paper-title-number-1
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-09
+venue: #'ApJ'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/10.1093%2Fmnras%2Fstab1581/abstract'
+citation: 'Bing Lyu et al. (2021). &quot;Long-term and multiwavelength evolution of a changing-look AGN Mrk 1018.&quot; <i>Monthly Notices of the Royal Astronomical Society, Volume 506, Issue 3, pp.4188-4198</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://academic.oup.com/mnras/pdf-lookup/doi/10.1093/mnras/stab1581)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
