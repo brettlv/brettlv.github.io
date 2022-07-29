@@ -16,24 +16,27 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2024: Postdoc
+  * PKU KIAA
+  * Duties included: CSST and AGN science
+  * Supervisor: Xuebing Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Reading, writing and speaking competencies for English
+* Data reduction
+  * UV/X-ray (Swift/XMM/Nustar/Chandra)
+  * Radio imaging (VLA, MWA)
+* Data Analysis
+  * Spectral fitting (heasoft, BXA)
+  * Timing analysis (stingray, Javelin, pyccf, lomb-scargle )
+  * Catalog cross-match (astroML)
+* Tools
+  * Python, LaTeX, astropy, astroquery, pymongodb, UltraNest
+
 
 Publications
 ======
@@ -55,7 +58,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently
 
 
 Full CV
