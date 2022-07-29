@@ -1,3 +1,14 @@
+![Thumbnail of Solvey](huiyi1.jpg)
++ <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8879-368X" href="https://orcid.org/0000-0001-8879-368X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">brettlv_orcid</a></div>
++ Home_Page [Github](https://brettlv.github.io/)
++ Read_Blog [ReadtheDocs](http://brettlvgithubio.readthedocs.io/en/latest/)
++ Sphinx_Site [Website](/build/index.html)
++ Github [Repro](https://github.com/brettlv/brettlv.github.io/)
++ Jupyter_code [Viewer](http://nbviewer.jupyter.org/github/brettlv/brettlv.github.io/tree/master/pythoncode/)
++ QQEmail <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=372tuqurs6mfubCnsr62s-G8sLI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
+
+=================
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
