@@ -20,10 +20,10 @@ redirect_from:
 Research Interests
 ------
 + AGN
- + accretion disk, BLR, torus
- + Timing
- + Spectral
- + AGN and host
+  + accretion disk, BLR, torus, etc.
+  + Timing
+  + Spectral
+  + AGN and host
 + XRB
   + transients
   + link between XRB and AGN
