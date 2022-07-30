@@ -17,14 +17,18 @@ redirect_from:
 + Github [Repro](https://github.com/brettlv/brettlv.github.io/)
 + QQEmail <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=372tuqurs6mfubCnsr62s-G8sLI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
-
+Personal Indroduction
 ------
+This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle Town. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto. ![bigbing](../icon.jpeg)
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited. My pen name is 曜灵，which means the spirit of sun. " Welcome to exchange paper letters with me through mail or e-mail!
 
-Emoji
+
 -----
-@octocat :+1: 这个 Pages看起来很棒！ :shipit:
+[Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+-----
+@brettlv :+1: 这个 Pages看起来很棒！
+@brettlv :shipit:
 
 
 
