@@ -19,9 +19,19 @@ redirect_from:
 
 Personal Indroduction
 ------
-This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle Town. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto. ![bigbing](../icon.jpeg)
+This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle Town. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
 
-I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited. My pen name is 曜灵，which means the spirit of sun. " Welcome to exchange paper letters with me through mail or e-mail!
+
+<center class="half">
+<img src="../icon.jpeg" width=200/>
+<img src="../icon.jpeg" width=200/>
+<img src="../icon.jpeg" width=200/>
+</center>
+
+
+I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited. My pen name is 曜灵，which means the spirit of sun. "
+
+Welcome to exchange paper letters with me through mail or e-mail!
 
 
 -----
