@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Life is short，I use Python."
+title: "Life is short, I use Python."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
