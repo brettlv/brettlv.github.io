@@ -7,7 +7,7 @@
 \pard\pardeftab720\sl280\partightenfactor0
 
 \f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \{% include base_path %\} \{% if post.header.teaser %\} \{% capture teaser %\}\{\{ post.header.teaser \}\}\{% endcapture %\} \{% else %\} \{% assign teaser = site.teaser %\} \{% endif %\} \{% if post.id %\} \{% assign title = post.title | markdownify | remove: "\
+\{% include base_path %\} \{% if post.header.teaser %\} \{% capture teaser %\}\{\{ post.header.teaser \}\}\{% endcapture %\} \{% else %\} \{% assign teaser = site.teaser %\} \{% endif %\} \{% if post.id %\} \{% assign title = post.title | markdownify | remove: "\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 " | remove: "\
 \pard\pardeftab720\sl280\partightenfactor0
@@ -17,7 +17,7 @@
 \{% endif %\}\
 \pard\pardeftab720\sl440\sa298\partightenfactor0
 
-\b\fs36 \cf2 \{% if post.link %\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.link%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ title \}\}}} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Permalink}} \{% else %\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ title \}\}}} \{% endif %\} \
+\b\fs36 \cf2 \{% if post.link %\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.link%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \{\{ title \}\}}} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 Permalink}} \{% else %\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \{\{ title \}\}}} \{% endif %\} \
 \pard\pardeftab720\sl280\partightenfactor0
 
 \b0\fs24 \cf2 \{% if post.read_time %\}\
@@ -28,13 +28,13 @@
 \pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 \{\{ post.type \}\}, 
 \i \{\{ post.venue \}\}
-\i0 , \{\{ post.date | default: "1900-01-01" | date: \'93%Y-%m\'94 \}\} \
+\i0 , \{\{ post.date | default: "1900-01-01" | date: \cf2 "\cf2 %Y-%m\cf2 "\cf2  \}\} \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.collection == 'publications' %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 Published in 
 \i \{\{ post.venue \}\}
-\i0 , \{\{ post.date | default: "1900-01-01" | date: \'93%Y-%m\'94\}\} \
+\i0 , \{\{ post.date | default: "1900-01-01" | date: \cf2 "\cf2 %Y-%m\cf2 "\cf2 \}\} \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.date %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
@@ -53,14 +53,14 @@
 ' | remove: '\
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 ' \}\}{\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"}}{\fldrslt 
-\b \cf3 \ul \ulc3 \strokec3  Read more\
+\b \cf3 \ul \ulc3  Read more\
 }}\pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 \
 \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% endif %\} \{% if post.citation and post.paperurl %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
-\cf2 Recommended citation: \{\{ post.citation \}\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 \{\{ post.paperurl \}\}}}\
+\cf2 Recommended citation: \{\{ post.citation \}\} {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \{\{ post.paperurl \}\}}}\
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.citation %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
@@ -68,7 +68,7 @@
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.paperurl %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
-\cf2 Link {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 here}}\
+\cf2 Link {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 here}}\
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% endif %\} \
 }
