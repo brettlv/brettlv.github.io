@@ -28,13 +28,13 @@
 \pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 \{\{ post.type \}\}, 
 \i \{\{ post.venue \}\}
-\i0 , \{\{ post.date | default: "1900-01-01" | date: \cf2 "\cf2 %Y-%m\cf2 "\cf2  \}\} \
+\i0 , \{\{ post.date | default: "1900-01-01" | date: "%Y" \}\} \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.collection == 'publications' %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
 \cf2 Published in 
 \i \{\{ post.venue \}\}
-\i0 , \{\{ post.date | default: "1900-01-01" | date: \cf2 "\cf2 %Y-%m\cf2 "\cf2 \}\} \
+\i0 , \{\{ post.date | default: "1900-01-01" | date: "%B %d, %Y"\}\} \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.date %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
@@ -68,7 +68,7 @@
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% elsif post.paperurl %\}\
 \pard\pardeftab720\sl280\sa240\partightenfactor0
-\cf2 Link {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 here}}\
+\cf2 Click Link {\field{\*\fldinst{HYPERLINK "file:///Users/brettlv/blog/brettlv.github.io/_includes/%7B%7B%20post.paperurl%20%7D%7D"}}{\fldrslt \cf3 \ul \ulc3 here}}\cf3 \ul \ulc3  \cf2 \ulnone \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \{% endif %\} \
 }
