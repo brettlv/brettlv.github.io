@@ -17,9 +17,22 @@ redirect_from:
 + Github [Repro](https://github.com/brettlv/brettlv.github.io/)
 + QQEmail <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=372tuqurs6mfubCnsr62s-G8sLI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
 
+Research Interests
+------
++ AGN
+ + accretion disk, BLR, torus
+ + Timing
+ + Spectral
+ + AGN and host
++ XRB
+  + transients
+  + link between XRB and AGN
+
+
+
 Personal Indroduction
 ------
-This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle Town. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. "Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
+This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟祥市), Hubei Province (湖北省), China. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. "Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
 
 
 <center class="half">
@@ -44,7 +57,7 @@ This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle 
 
 I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited.
 
-My pen name is 曜灵，which means the spirit of sun. " Welcome to exchange paper letters with me through mail or e-mail!
+My pen name is 曜灵，which means the spirit of sun. Welcome to exchange paper letters with me through mail or e-mail!
 
 <!--
 整段整段的不可见内容
@@ -64,7 +77,8 @@ shadan.jpg
 -----
 [Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 -----
-@brettlv :+1: 这个 Pages看起来很棒！
+@brettlv :+1: This Pages looks great!
+
 @brettlv :shipit:
 
 
