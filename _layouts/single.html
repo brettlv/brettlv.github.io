@@ -32,7 +32,7 @@
 <p class="p1"><span class="s1">{% endif %} {% if page.collection == 'teaching' %}</span></p>
 <p class="p4"><span class="s1">{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: “%Y-%m” }}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{% elsif page.venue and page.date %}</span></p>
-<p class="p4"><span class="s1">Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: “%Y-%m“ }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1">Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: “%Y-%m” }}<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1">{% elsif page.date %}</span></p>
 <p class="p4"><span class="s1"><b>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</b> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</span></p>
 <p class="p1"><span class="s1">{% endif %} {% if page.citation and page.paperurl %}</span></p>
