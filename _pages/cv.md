@@ -19,8 +19,19 @@ Work experience
 * 2022-present: Postdoc
   * PKU KIAA
   * Duties included: CSST and AGN science
-  #* Supervisor: Xuebing Wu
+  
+  
+  
 
+Collaborators
+======
+* Supervisors:
+   * Qingwen Wu (HUST)
+   * Wenfei Yu (SHAO)
+   * Xuebing Wu (PKU)
+* Co-authors:
+   * Zhen Yan (SHAO)
+   * Hao Liu (UTSC)
 
   
 Skills
