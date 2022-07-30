@@ -23,29 +23,32 @@ This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle 
 
 
 <center class="half">
-<img src="../images/bingemoji/shenjingbing.jpg" width=100/>
-<img src="../images/bingemoji/youmaobing.jpg" width=100/>
-<img src="../images/bingemoji/silianbing.jpg" width=100/>
+<img src="../images/bingemoji/shenjingbing.jpg"  width="30%">
+<img src="../images/bingemoji/youmaobing.jpg"  width="30%">
+<img src="../images/bingemoji/silianbing.jpg"  width="30%">
 </center>
 
 <center class="half">
-<img src="../images/bingemoji/erbing.jpg" width=100/>
-<img src="../images/bingemoji/fanbing.jpg" width=100/>
-<img src="../images/bingemoji/zhongerbing.jpg" width=100/>
+<img src="../images/bingemoji/erbing.jpg"  width="30%">
+<img src="../images/bingemoji/fanbing.jpg"  width="30%">
+<img src="../images/bingemoji/zhongerbing.jpg"  width="30%">
 </center>
 
 <center class="half">
-<img src="../images/bingemoji/gongzhubing.jpg" width=200/>
-<img src="../images/bingemoji/libing.jpg" width=200/>
-<img src="../images/bingemoji/malisubing.jpg" width=200/>
+<img src="../images/bingemoji/gongzhubing.jpg"  width="30%">
+<img src="../images/bingemoji/libing.jpg"  width="30%">
+<img src="../images/bingemoji/malisubing.jpg"  width="30%">
 </center>
+
+-----
 
 I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited.
 
 My pen name is 曜灵，which means the spirit of sun. " Welcome to exchange paper letters with me through mail or e-mail!
 
-[>_>]: #
-(shenjingbing.jpg
+<!--
+整段整段的不可见内容
+shenjingbing.jpg
 youmaobing.jpg
 silianbing.jpg
 erbing.jpg
@@ -55,8 +58,7 @@ gongzhubing.jpg
 libing.jpg
 malisubing.jpg
 shadan.jpg
-斜眼分段注释
-被视为Title，所以要用括号或引号框起来)
+-->
 
 
 -----
