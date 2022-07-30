@@ -20,20 +20,7 @@ Work experience
   * PKU KIAA
   * Duties included: CSST and AGN science
   
-  
-  
 
-Collaborators
-======
-* Supervisors:
-   * Qingwen Wu (HUST)
-   * Wenfei Yu (SHAO)
-   * Xuebing Wu (PKU)
-* Co-authors:
-   * Zhen Yan (SHAO)
-   * Hao Liu (UTSC)
-
-  
 Skills
 ======
 * Languages
@@ -67,9 +54,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+
+Collaborators
 ======
-* Test
+* Supervisors:
+  * Qingwen Wu (HUST)
+  * Wenfei Yu (SHAO)
+  * Xuebing Wu (PKU)
+* Co-authors:
+  * Zhen Yan (SHAO)
+  * Hao Liu (UTSC)
 
 
 Full CV
