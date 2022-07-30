@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* 2022-2024: Postdoc
+* 2022-present: Postdoc
   * PKU KIAA
   * Duties included: CSST and AGN science
-  * Supervisor: Xuebing Wu
+  #* Supervisor: Xuebing Wu
 
 
   
@@ -58,9 +58,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently
+* Test
 
 
 Full CV
 =================
-Please click [here](CV_lyubing.pdf) to view my full CV in PDF.
+Please click [here](./cv/CV_lyubing.pdf) to view my full CV in PDF.
