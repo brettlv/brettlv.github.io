@@ -23,15 +23,44 @@ This is  Bing Lyu (吕兵)，born in Hubei Province，Zhongxiang City， Fengle 
 
 
 <center class="half">
-<img src="../icon.jpeg" width=200/>
-<img src="../icon.jpeg" width=200/>
-<img src="../icon.jpeg" width=200/>
+<img src="../images/bing_emoji/shenjingbing.jpg" width=100/>
+<img src="../images/bing_emoji/youmaobing.jpg" width=100/>
+<img src="../images/bing_emoji/silianbing.jpg" width=100/>
 </center>
 
+<center class="half">
+<img src="../images/bing_emoji/erbing.jpg" width=100/>
+<img src="../images/bing_emoji/fanbing.jpg" width=100/>
+<img src="../images/bing_emoji/zhongerbing.jpg" width=100/>
+</center>
+
+<center class="half">
+<img src="../images/bing_emoji/gongzhubing.jpg" width=100/>
+<img src="../images/bing_emoji/libing.jpg" width=100/>
+<img src="../images/bing_emoji/malisubing.jpg" width=100/>
+</center>
 
 I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors as I have been invited. My pen name is 曜灵，which means the spirit of sun. "
 
 Welcome to exchange paper letters with me through mail or e-mail!
+
+[>_>]: #
+(
+
+shenjingbing.jpg
+youmaobing.jpg
+silianbing.jpg
+erbing.jpg
+fanbing.jpg
+zhongerbing.jpg
+gongzhubing.jpg
+libing.jpg
+malisubing.jpg
+shadan.jpg
+斜眼分段注释
+被视为Title，所以要用括号或引号框起来
+)
+
 
 
 -----
