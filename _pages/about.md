@@ -32,7 +32,7 @@ Research Interests
 
 Personal Indroduction
 ------
-This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟祥市), Hubei Province (湖北省), China. My English name is brett, which was given by my english foreign teacher during the first year in Lantai middle school. My nickname is big bing (大饼)， a kind of round and flat pie. "Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
+This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟祥市), Hubei Province (湖北省), China. My English name is brett, which was given by my English foreign teacher during the first year in Lantai (兰台) middle school. My nickname is big bing (大饼), a kind of round and flat pie. "Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
 
 
 <center class="half">
@@ -78,6 +78,7 @@ shadan.jpg
 [Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 -----
 @brettlv :+1: This Pages looks great!
+
 
 @brettlv :shipit:
 
