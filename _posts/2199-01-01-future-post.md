@@ -14,6 +14,8 @@ This post will show up by default. To disable scheduling of future posts, edit `
 -----
 
 欢迎关注微信公众号：曜灵集
-![曜灵集](wxgzhsys.png)
+<center class="half">
+<img src="./wxgzhsys.png"  width="60%">
+</center>
 
 -----
