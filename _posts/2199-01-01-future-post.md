@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: 2199-01-01
+date: 2099-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -9,3 +9,11 @@ tags:
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+
+-----
+
+欢迎关注微信公众号：曜灵集
+![曜灵集](wxgzhsys.png)
+
+-----
