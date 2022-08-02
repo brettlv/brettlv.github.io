@@ -21,6 +21,18 @@ Work experience
   * Duties included: CSST and AGN science
   
 
+Research Interests
+=====
++ AGN
+   + accretion disk, BLR, torus, etc.
+   + Timing
+   + Spectral
+   + AGN and host
++ XRB
+   + transients
+   + link between XRB and AGN
+
+
 Skills
 ======
 * Languages
@@ -34,6 +46,7 @@ Skills
   * Catalog cross-match (astroML)
 * Tools
   * Python, LaTeX, astropy, astroquery, pymongodb, UltraNest
+
 
 
 Publications

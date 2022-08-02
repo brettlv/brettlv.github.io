@@ -11,18 +11,6 @@ redirect_from:
 ![Thumbnail of Solvey](huiyi1.jpg)
 
 
-Research Interests
-------
-+ AGN
-  + accretion disk, BLR, torus, etc.
-  + Timing
-  + Spectral
-  + AGN and host
-+ XRB
-  + transients
-  + link between XRB and AGN
-
-
 
 Personal Introduction
 ------
