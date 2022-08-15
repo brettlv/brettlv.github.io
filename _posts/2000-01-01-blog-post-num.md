@@ -1,13 +1,20 @@
 ---
 title: 'Blog Post number template'
-date: 2015-08-14
+date: 2000-01-01
 permalink: /posts/blog-post-num/
 tags:
   - cool posts
-  - category1
-  - category2
+  - template
 ---
 
+
+
+**Code**
+```
+```
+
+**Link**
+[show](url)
 
 
 
