@@ -200,3 +200,8 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
+
+```{r klippy, echo=FALSE, include=TRUE}
+klippy::klippy(c('r', 'python'))
+```
