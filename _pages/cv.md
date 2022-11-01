@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Physics, Huazhong University of Science and Technology, 2012-2016
 * Ph.D in Astrophysics, Huazhong University of Science and Technology, 2016-2022
+* joint Ph.D student in Shanghai Astronomical Obervatory, 2019-2022
 
 Work experience
 ======
@@ -25,8 +26,8 @@ Research Interests
 =====
 + AGN
    + accretion disk, BLR, torus, etc.
-   + Timing
-   + Spectral
+   + Timing analysis
+   + Spectral fitting
    + AGN and host
 + XRB
    + transients
@@ -76,7 +77,7 @@ Collaborators
   * Xuebing Wu (PKU)
 * Co-authors:
   * Zhen Yan (SHAO)
-  * Hao Liu (UTSC)
+  * Hao Liu (UTSC/HUST)
 
 
 Full CV
