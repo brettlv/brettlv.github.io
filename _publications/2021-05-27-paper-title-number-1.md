@@ -8,4 +8,5 @@ venue: 'MNRAS'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.4188L/abstract'
 ---
 
+author: Lyu, Bing  ; Wu, Qingwen  ; Yan Zhen ; Yu wenfei ;
 
