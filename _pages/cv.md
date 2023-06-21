@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* 2022-present: Postdoc
-  * PKU KIAA
+* 2022-present: PKU KIAA Postdoc
   * Duties included: CSST and AGN science
-  
+* 2023-present: LAMOST fellow   
+  * Duties included: QSO survey with LAMOST dr10-12 
 
 Research Interests
 =====
@@ -75,9 +75,20 @@ Collaborators
   * Qingwen Wu (HUST)
   * Wenfei Yu (SHAO)
   * Xuebing Wu (PKU)
+  
 * Co-authors:
   * Zhen Yan (SHAO)
   * Hao Liu (UTSC/HUST)
+  * Jiancheng Wu (HUST)
+  * Zhihong Shi (HKU/HUST)
+
+* Discussion 
+  * Junjie Jin
+  * Huimei Wang
+  * Yuming Fu
+  * Haicheng Feng
+
+
 
 
 Full CV
