@@ -1,5 +1,5 @@
 ---
-title: "Coevolution of Broad Emission Lines and X-Ray Spectrum in Changing-look AGNs"
+title: "Steep Balmer Decrement in Weak AGNs May Not Be Caused by Dust Extinction: Clues from Low-luminosity AGNs and Changing-look AGNs"
 collection: publications
 permalink: /publication/2023-06-14-paper-title-number-4
 excerpt:
