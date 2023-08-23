@@ -9,3 +9,5 @@ paperurl: 'https://ui.adsabs.harvard.edu/abs/2022ApJ...930...46L/abstract'
 citation:
 ---
 author: Liu, Hao  ; Wu, Qingwen  ; Lyu, Bing 
+
+[click](https://ui.adsabs.harvard.edu/abs/2022ApJ...930...46L/abstract)

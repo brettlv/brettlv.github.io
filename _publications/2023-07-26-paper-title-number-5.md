@@ -10,3 +10,5 @@ paperurl: 'https://doi.org/10.1093/mnras/stad2061'
 citation:
 ---
 author: Zhihong Shi  ; Wu, Qingwen  ; Zhen Yan  ; Lyu, Bing  ; Liu Hao
+
+[click](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2320S/abstract)
