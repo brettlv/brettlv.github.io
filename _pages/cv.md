@@ -36,10 +36,8 @@ Research Interests
 
 Skills
 ======
-* Languages
-  * Reading, writing and speaking competencies for English
 * Data reduction
-  * UV/X-ray (Swift/XMM/Nustar/Chandra)
+  * UV/X-ray (Swift/XMM/Nustar/Chandra etc.)
   * Radio imaging (VLA, MWA)
 * Data Analysis
   * Spectral fitting (heasoft, BXA)
