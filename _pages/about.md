@@ -14,7 +14,7 @@ redirect_from:
 
 Personal Introduction
 ------
-This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟祥市), Hubei Province (湖北省), China. My English name is brett, which was given by my English foreign teacher during the first year in Lantai (兰台) middle school. My nickname is big bing (大饼), a kind of round and flat pie. "Inovtrysuve and luxuriance, keep silent and hungry for pie" is my motto.
+This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟祥市), Hubei Province (湖北省), China. My English name is brett, which was given by my English foreign teacher during the first year in Lantai (兰台) middle school. My nickname is big bing (大饼), a kind of round and flat pie. "Self-effacement and luxuriance, keep silent and hungry for pie" is my motto.
 
 
 

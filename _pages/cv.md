@@ -70,18 +70,20 @@ Teaching
 Collaborators
 ======
 * Supervisors:
-  * Qingwen Wu (HUST)
-  * Wenfei Yu (SHAO)
-  * Xuebing Wu (PKU)
+  * Prof. Qingwen Wu (HUST)
+  * Prof. Wenfei Yu (SHAO)
+  * Prof. Xuebing Wu (PKU)
   
 * Co-authors:
-  * Zhen Yan (SHAO)
-  * Hao Liu (UTSC/HUST)
+  * Prof. Zhen Yan (SHAO)
+  * Prof. Shiju Kang (LNU) 
+  * Dr. Junjie Jin    
+  * Dr. Hao Liu (UTSC/HUST)
   * Jiancheng Wu (HUST)
   * Zhihong Shi (HKU/HUST)
 
 * Discussion 
-  * Junjie Jin
+
   * Huimei Wang
   * Yuming Fu
   * Haicheng Feng
