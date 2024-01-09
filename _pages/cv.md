@@ -83,7 +83,7 @@ Collaborators
   * Zhihong Shi (HKU/HUST)
 
 * Discussion 
-
+  * Yuxuan Pang
   * Huimei Wang
   * Yuming Fu
   * Haicheng Feng
