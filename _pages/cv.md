@@ -77,15 +77,16 @@ Collaborators
 * Co-authors:
   * Prof. Zhen Yan (SHAO)
   * Prof. Shiju Kang (LNU) 
-  * Dr. Junjie Jin    
+  * Dr. Junjie Jin(NAOC)    
+  * Dr. Yuming Fu (LO)
   * Dr. Hao Liu (UTSC/HUST)
   * Jiancheng Wu (HUST)
   * Zhihong Shi (HKU/HUST)
+  * Yuxuan Pang (PKU)
+  * Huimei Wang (PKU)
+  * Rui Zhu (PKU)
 
 * Discussion 
-  * Yuxuan Pang
-  * Huimei Wang
-  * Yuming Fu
   * Haicheng Feng
 
 
