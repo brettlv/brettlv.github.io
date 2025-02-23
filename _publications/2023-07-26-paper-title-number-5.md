@@ -11,4 +11,4 @@ citation:
 ---
 author: Zhihong Shi  ; Wu, Qingwen  ; Zhen Yan  ; Lyu, Bing  ; Liu Hao
 
-[click](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2320S/abstract)
+[click ads](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2320S/abstract)

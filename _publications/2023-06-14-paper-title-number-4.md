@@ -10,4 +10,4 @@ citation:
 ---
 author: Wu, Jiancheng  ; Wu, Qingwen  ; Xue, Hanrui  ; Lei, Weihua  ; Lyu, Bing  
 
-[click](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..106W/abstract)
+[click ads](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..106W/abstract)

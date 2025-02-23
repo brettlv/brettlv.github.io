@@ -10,4 +10,4 @@ citation:
 ---
 author: Kang, Shi-Ju  ; Lyu, Bing  ; Wu, Qingwen  ; Zheng, Yong-Gang  ; Fan, Junhui
 
-[click](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..122K/abstract)
+[click ads](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..122K/abstract)

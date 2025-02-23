@@ -11,4 +11,4 @@ citation:'Bing Lyu et al. (2022) &quot;WISE View of Changing-look Active Galacti
 
 author: Lyu, Bing  ; Wu, Qingwen  ; Yan Zhen; Yu wenfei; Liu, Hao 
 
-[click](https://ui.adsabs.harvard.edu/abs/2022ApJ...927..227L/abstract)
+[click ads](https://ui.adsabs.harvard.edu/abs/2022ApJ...927..227L/abstract)
