@@ -23,9 +23,13 @@ This is  Bing Lyu (吕兵), born in Fengle Town(丰乐镇), Zhongxiang City(钟�
 
 About Me
 -----
-I like basketball, peoms, physics and astronomy. Of course, I would like to make friends with others  through all kind of funny activites online or in/outdoors when I have been invited.
+I like basketball, reading, peoms, physics and astronomy. 
+My pen name is 曜灵/默默/妙源 and so on. 
+Welcome to write letters to me. Contact me through Wechat: brettlv
 
-My pen name is 曜灵/默默/妙源 and so on. Welcome to exchange paper letters with me through mail or e-mail!
+
+
+
 
 <!--
 整段整段的不可见内容
