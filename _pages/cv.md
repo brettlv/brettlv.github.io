@@ -39,6 +39,8 @@ Skills
 * Data reduction
   * UV/X-ray (Swift/XMM/Nustar/Chandra etc.)
   * Radio imaging (VLA, MWA)
+  * optical (SDSS,LAMOST,ztf,xinglong2.16m,lijiang2.4m)
+  * MIR (WISE jwst)
 * Data Analysis
   * Spectral fitting (heasoft, BXA)
   * Timing analysis (stingray, Javelin, pyccf, lomb-scargle )
@@ -85,13 +87,15 @@ Collaborators
   * Yuxuan Pang (PKU)
   * Huimei Wang (PKU)
   * Rui Zhu (PKU)
+  * ...
 
 * Discussion 
   * Haicheng Feng
+  * ...
 
 
 
 
 Full CV
 =================
-Please click [here](./cv/CV_lyubing.pdf) to view my full CV in PDF.
+Please click [here](./cv/CV_lyubing_en_cn.pdf) to view my full CV in PDF.
